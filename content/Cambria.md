@@ -1,3 +1,5 @@
+---
+---
 An [[Ink and Switch]] project, developed by [[P- Geoffrey Litt]], [[P- Peter van Hardenberg]], and [[P- Orion Henry]]
 
 [Canonical essay](https://www.inkandswitch.com/cambria/)

@@ -1,6 +1,7 @@
 ---
-title: "Adding structure later feels like a chore"
-enableToc: false # do not show a table of contents on this page
+title: Adding structure later feels like a chore
+enableToc: false
+Author: Rob Haisfield, Brendan Langen
 ---
 
 Authored By:: [[P- Rob Haisfield]], [[P- Brendan Langen]]

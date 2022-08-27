@@ -17,7 +17,7 @@ For most people, the primary concern is speed. If you are working with someone w
 
 As [[P- Ryan Singer]] describes in [Shape Up](https://basecamp.com/shapeup), the most efficient synthesis occurs when you can cover a breadth of topics quickly. This can only happen if you are able to leave out details as you go. When you are on your own or with a trusted collaborator with shared context, you do not need to re-explain things you already understand, using a "shorthand" instead.
 
-First, we need to have the right people—or nobody—in the room. Either we’re working alone or with a trusted partner who can keep pace with us. Someone we can speak with in shorthand, who has the same background knowledge, and who we can be frank with as we jump between ideas.
+> First, we need to have the right people—or nobody—in the room. Either we’re working alone or with a trusted partner who can keep pace with us. Someone we can speak with in shorthand, who has the same background knowledge, and who we can be frank with as we jump between ideas.
 
 Here, the primary concern is being able to [[work at the speed of thought]]. Bringing someone else up to speed[^1] - especially someone with a [[lack of shared context]] - slows the process down and reduces the chances of advancing beyond the basics.  
 
