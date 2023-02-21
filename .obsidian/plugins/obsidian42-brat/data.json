@@ -1,0 +1,14 @@
+{
+  "pluginList": [
+    "nothingislost/obsidian-query-control"
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": false,
+  "ribbonIconEnabled": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true
+}

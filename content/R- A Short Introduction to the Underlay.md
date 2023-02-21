@@ -1,14 +1,14 @@
 ---
-title: "R- A Short Introduction to the Underlay"
-enableToc: false # do not show a table of contents on this page
+title: R- A Short Introduction to the Underlay
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Danny Hillis, Samuel Klein, Travis Rich"
+author: Danny Hillis, Samuel Klein, Travis Rich
 year: 2020
 reference: "https://notes.knowledgefutures.org/pub/underlay-short-intro/release/1"
-tags: 
+tags: source
 status: 
-alias:
+alias: 
 ---
 Source:: https://notes.knowledgefutures.org/pub/underlay-short-intro/release/1
 

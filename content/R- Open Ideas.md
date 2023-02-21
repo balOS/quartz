@@ -1,6 +1,7 @@
 ---
-title: "R- Open Ideas"
-enableToc: false # do not show a table of contents on this page
+title: R- Open Ideas
+enableToc: false
+tags: source
 ---
 https://perama-v.github.io/ethereum/ideas
 ## Introduction

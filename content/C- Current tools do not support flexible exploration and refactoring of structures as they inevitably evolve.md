@@ -1,6 +1,7 @@
 ---
-title: "C- Current tools do not support flexible exploration and refactoring of structures as they inevitably evolve"
-enableToc: false # do not show a table of contents on this page
+title: C- Current tools do not support flexible exploration and refactoring of structures as they inevitably evolve
+enableToc: false
+tags: claim
 ---
 
 Authored By:: [[P- Rob Haisfield]]

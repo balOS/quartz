@@ -1,14 +1,14 @@
 ---
-title: "R- The Cost Structure of Sensemaking"
-enableToc: false # do not show a table of contents on this page
+title: R- The Cost Structure of Sensemaking
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
 author: "[Daniel M. Russell], [Mark J. Stefik], [Peter Pirolli], and [Stuart K. Card]"
 year: 1993
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@russellCostStructureSensemaking1993"
+alias: @russellCostStructureSensemaking1993
 ---
 
 - #References

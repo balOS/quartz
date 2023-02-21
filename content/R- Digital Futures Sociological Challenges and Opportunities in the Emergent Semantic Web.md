@@ -1,14 +1,14 @@
 ---
-title: "R- Digital Futures Sociological Challenges and Opportunities in the Emergent Semantic Web"
-enableToc: false # do not show a table of contents on this page
+title: R- Digital Futures Sociological Challenges and Opportunities in the Emergent Semantic Web
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Susan Halford, Catherine Pope, Mark Weal"
+author: Susan Halford, Catherine Pope, Mark Weal
 year: 2013
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@halfordDigitalFuturesSociological2013"
+alias: @halfordDigitalFuturesSociological2013
 ---
 
 - #references

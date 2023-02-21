@@ -1,6 +1,7 @@
 ---
-title: "Q- What is a decentralized discourse graph"
-enableToc: false # do not show a table of contents on this page
+title: Q- What is a decentralized discourse graph
+enableToc: false
+tags: question
 ---
 Authored By:: [[P- Joel Chan]], [[P- Rob Haisfield]], [[P- Brendan Langen]]
 

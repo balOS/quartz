@@ -1,14 +1,14 @@
 ---
-title: "R- Scholars Before Researchers"
-enableToc: false # do not show a table of contents on this page
+title: R- Scholars Before Researchers
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "David N. Boote, Penny Beile"
+author: David N. Boote, Penny Beile
 year: 2005
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@booteScholarsResearchersCentrality2005"
+alias: @booteScholarsResearchersCentrality2005
 ---
 
 -   #[[references]]

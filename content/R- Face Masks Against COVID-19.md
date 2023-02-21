@@ -1,14 +1,14 @@
 ---
-title: "R- Face Masks Against COVID-19"
-enableToc: false # do not show a table of contents on this page
+title: R- Face Masks Against COVID-19
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Jeremy Howard, Austin Huang, Zhiyuan Li, Zeynep Tufekci, Vladimir Zdimal, Helene-Mari van der Westhuizen, Arne von Delft, Amy Price, Lex Fridman, Lei-Han Tang, Viola Tang, Gregory L. Watson, Christina E. Bax, Reshama Shaikh, Frederik Questier, Danny Hernandez, Larry F. Chu, Christina M. Ramirez, Anne W. Rimoin"
+author: Jeremy Howard, Austin Huang, Zhiyuan Li, Zeynep Tufekci, Vladimir Zdimal, Helene-Mari van der Westhuizen, Arne von Delft, Amy Price, Lex Fridman, Lei-Han Tang, Viola Tang, Gregory L. Watson, Christina E. Bax, Reshama Shaikh, Frederik Questier, Danny Hernandez, Larry F. Chu, Christina M. Ramirez, Anne W. Rimoin
 year: 2020
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@howardFaceMasksCOVID192020"
+alias: @howardFaceMasksCOVID192020
 ---
 
 -   #[[references]]

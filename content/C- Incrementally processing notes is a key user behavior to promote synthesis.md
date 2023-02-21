@@ -1,6 +1,7 @@
 ---
-title: "C- Incrementally processing notes is a key user behavior to promote synthesis"
-enableToc: false # do not show a table of contents on this page
+title: C- Incrementally processing notes is a key user behavior to promote synthesis
+enableToc: false
+tags: claim
 ---
 Authored By:: [[P- Rob Haisfield]], [[P- Brendan Langen]]
 

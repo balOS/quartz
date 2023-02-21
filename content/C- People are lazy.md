@@ -1,6 +1,7 @@
 ---
-title: "C- People are lazy"
-enableToc: false # do not show a table of contents on this page
+title: C- People are lazy
+enableToc: false
+tags: claim
 ---
 Authored By:: [[P- Rob Haisfield]]
 

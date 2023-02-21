@@ -1,0 +1,12 @@
+{
+  "translucency": false,
+  "cssTheme": "",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "ObsidianCSSsnippets",
+    "supercharged-links-gen"
+  ],
+  "baseFontSize": 19,
+  "baseFontSizeAction": true,
+  "accentColor": ""
+}

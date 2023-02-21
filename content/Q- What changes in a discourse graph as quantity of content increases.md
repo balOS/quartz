@@ -1,6 +1,7 @@
 ---
-title: "Q- What changes in a discourse graph as quantity of content increases"
-enableToc: false # do not show a table of contents on this page
+title: Q- What changes in a discourse graph as quantity of content increases
+enableToc: false
+tags: question
 ---
 Authored By:: [[P- Rob Haisfield]]
 

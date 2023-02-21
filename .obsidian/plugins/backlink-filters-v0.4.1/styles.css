@@ -1,0 +1,8 @@
+/* On Hover change filter notice */
+
+div.notice.bl-filter:hover {
+    background-color: red;
+    color: white;
+    /*font-weight: bold;*/
+    cursor: pointer;
+}

@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "structure",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "evergreen",
+      "color": {
+        "a": 1,
+        "rgb": 6422401
+      }
+    },
+    {
+      "query": "open-questions",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "file:\"R-\"",
+      "color": {
+        "a": 1,
+        "rgb": 10911999
+      }
+    },
+    {
+      "query": "idea",
+      "color": {
+        "a": 1,
+        "rgb": 16734187
+      }
+    },
+    {
+      "query": "meeting",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 3.69700219557507,
+  "lineSizeMultiplier": 3.48514609018747,
+  "collapse-forces": true,
+  "centerStrength": 0,
+  "repelStrength": 19.8559027777778,
+  "linkStrength": 0.756163194444445,
+  "linkDistance": 500,
+  "scale": 8,
+  "close": false
+}

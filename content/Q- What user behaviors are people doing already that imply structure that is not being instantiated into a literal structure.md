@@ -1,6 +1,7 @@
 ---
-title: "Q- What user behaviors are people doing already that imply structure that is not being instantiated into a literal structure"
-enableToc: false # do not show a table of contents on this page
+title: Q- What user behaviors are people doing already that imply structure that is not being instantiated into a literal structure
+enableToc: false
+tags: question
 ---
 Authored By:: [[P- Rob Haisfield]]
 #questions/core

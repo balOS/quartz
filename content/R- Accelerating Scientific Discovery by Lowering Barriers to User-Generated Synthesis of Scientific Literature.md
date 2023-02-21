@@ -1,14 +1,14 @@
 ---
-title: "R- Accelerating Scientific Discovery by Lowering Barriers to User-Generated Synthesis of Scientific Literature"
-enableToc: false # do not show a table of contents on this page
+title: R- Accelerating Scientific Discovery by Lowering Barriers to User-Generated Synthesis of Scientific Literature
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Joel Chan"
+author: Joel Chan
 year: 2021
 reference: 
-tags: 
+tags: source
 status: 
-alias:
+alias: 
 ---
 
 

@@ -1,9 +1,9 @@
 ---
-title: "I- Search terms as the basis for user-defined subscriptions"
-enableToc: false # do not show a table of contents on this page
-aliases: 
-- /I-Utilize-search-as-the-basis-for-user-defined-subscriptions/
-enableToc: false # do not show a table of contents on this page
+title: I- Search terms as the basis for user-defined subscriptions
+enableToc: false
+aliases:
+ - /I-Utilize-search-as-the-basis-for-user-defined-subscriptions/
+tags: idea
 ---
 
 Authored By:: [[P- Rob Haisfield]]

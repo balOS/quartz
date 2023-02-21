@@ -1,14 +1,14 @@
 ---
-title: "R- Are theoretical results Results"
-enableToc: false # do not show a table of contents on this page
+title: R- Are theoretical results Results
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
 author: Raymond E Goldstein
 year: 2018
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@goldsteinAreTheoreticalResults2018"
+alias: @goldsteinAreTheoreticalResults2018
 ---
 -   #[[references]]
     -   Title: Are theoretical results ‘Results’?

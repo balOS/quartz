@@ -1,4 +1,5 @@
 ---
+tags: question
 ---
 [[Q- What user behavior is required to maintain a decentralized knowledge graph]]? Presumably, there should some balance between what is required of user behavior, what is required of the design of the system, and what AI can do to reduce the effort from user behavior.
 

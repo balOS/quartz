@@ -1,14 +1,14 @@
 ---
-title: "R- The sensemaking process and leverage points for analyst technology"
-enableToc: false # do not show a table of contents on this page
+title: R- The sensemaking process and leverage points for analyst technology
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Peter Pirolli, Stuart K. Card"
+author: Peter Pirolli, Stuart K. Card
 year: 2005
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@pirolliSensemakingProcessLeverage2005"
+alias: @pirolliSensemakingProcessLeverage2005
 ---
 
 -   #[[references]]

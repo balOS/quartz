@@ -1,6 +1,7 @@
 ---
-title: "Q- How might we allow people to adapt their past system and notes to current needs"
-enableToc: false # do not show a table of contents on this page
+title: Q- How might we allow people to adapt their past system and notes to current needs
+enableToc: false
+tags: question
 ---
 Authored By:: [[P- Rob Haisfield]]
 

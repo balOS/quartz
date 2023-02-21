@@ -1,6 +1,7 @@
 ---
-title: "C- Power users want to directly interface with the data structure of the app"
-enableToc: false # do not show a table of contents on this page
+title: C- Power users want to directly interface with the data structure of the app
+enableToc: false
+tags: claim
 ---
 I've noticed a really interesting trend lately in apps built for power usage... When the user starts out, they have a GUI (Graphical User Interface) that helps them learn how to do things. As [User skill level increases over time](https://robhaisfield.com/notes/user-skill-level-increases-over-time), they can actually disable elements of the GUI, decreasing the clutter on the screen that they no longer need as a memory aid for how to do X or Y.
 

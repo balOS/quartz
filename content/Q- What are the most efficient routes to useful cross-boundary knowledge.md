@@ -1,6 +1,7 @@
 ---
-title: "Q- What are the most efficient routes to useful cross-boundary knowledge"
-enableToc: false # do not show a table of contents on this page
+title: Q- What are the most efficient routes to useful cross-boundary knowledge
+enableToc: false
+tags: question
 ---
 Authored by:: [[P- Joel Chan]]
 

@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "f23a07e26bd0460b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ab66b155a71a6a4",
+        "type": "leaf",
+        "state": {
+          "type": "database-plugin",
+          "state": {
+            "file": "content/Blog database.md"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "9ab66b155a71a6a4",
+              "group": null,
+              "state": "{\"type\":\"database-plugin\",\"state\":{\"file\":\"content/Blog database.md\"}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18293d793f3d4f56",
+    "type": "split",
+    "children": [
+      {
+        "id": "06827d6159102929",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "298d115f4a771df3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "081245cb1a7dd140",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "a3cb4eda8fd7add6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/Blog database.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.00793838500977
+  },
+  "right": {
+    "id": "f74a49c264e0af6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd0240ad486b3234",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c4ebc4911213f3d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/Blog database.md"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "7c73e858cd7df517",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"youtube \"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "byCreatedTime"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "5511757303821f2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "88a0fb80d24a2135",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/Blog database.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "1fc4a7d70c74088b",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "8dd7063871eaed40",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "2808afe96e9a0155",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "e2f5d33ff07c3df0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "b9a37b7764957d06",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "defebe0fa91aa6fe",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "a98960600613a314",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.94451904296875
+  },
+  "active": "9ab66b155a71a6a4",
+  "lastOpenFiles": [
+    "R- Information Foraging Video.md",
+    "I- Search terms as the basis for user-defined subscriptions.md",
+    "I- Enable composable queries to facilitate structure in hindsight.md",
+    "I- Search as a primitive.md",
+    "Research Grant Application.md",
+    "R- Information and Context.md",
+    "C- Linked references are a smart default for related items.md",
+    "R- Graphs in OpenCog's AtomSpace, Webstructor and Aigents for SingularityNET.md",
+    "Q- How do you scale and distribute synthesis.md",
+    "Project Description.md"
+  ]
+}

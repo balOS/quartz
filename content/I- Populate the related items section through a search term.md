@@ -1,6 +1,7 @@
 ---
-title: "I- Populate the related items section through a search term"
-enableToc: false # do not show a table of contents on this page
+title: I- Populate the related items section through a search term
+enableToc: false
+tags: idea
 ---
 
 Authored By:: [[P- Rob Haisfield]], [[P- Brendan Langen]]

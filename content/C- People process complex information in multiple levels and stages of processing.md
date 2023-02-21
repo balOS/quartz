@@ -1,6 +1,7 @@
 ---
-title: "C- People process complex information in multiple levels and stages of processing"
-enableToc: false # do not show a table of contents on this page
+title: C- People process complex information in multiple levels and stages of processing
+enableToc: false
+tags: claim
 ---
 Authored By:: [[P- Joel Chan]] [[P- Rob Haisfield]]
 

@@ -1,14 +1,14 @@
 ---
-title: "R- From Proteins to Fairytales"
-enableToc: false # do not show a table of contents on this page
+title: R- From Proteins to Fairytales
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Anita de Waard"
+author: Anita de Waard
 year: 2010
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@deWaardProteinsFairytalesDirections2010"
+alias: @deWaardProteinsFairytalesDirections2010
 ---
 - #references
     - Title: From Proteins to Fairytales: Directions in Semantic Publishing

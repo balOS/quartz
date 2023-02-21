@@ -1,14 +1,14 @@
 ---
-title: "R- Theoretical musings"
-enableToc: false # do not show a table of contents on this page
+title: R- Theoretical musings
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Eve Marder"
+author: Eve Marder
 year: 2020
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@marderTheoreticalMusings2020"
+alias: @marderTheoreticalMusings2020
 ---
   
 #references

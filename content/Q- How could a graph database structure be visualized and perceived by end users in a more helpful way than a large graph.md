@@ -1,6 +1,7 @@
 ---
-title: "Q- How could a graph database structure be visualized and perceived by end users in a more helpful way than a large graph"
-enableToc: false # do not show a table of contents on this page
+title: Q- How could a graph database structure be visualized and perceived by end users in a more helpful way than a large graph
+enableToc: false
+tags: question
 ---
 [[P- Chris Granger]] claims that showing more than 15-20 nodes at a time makes a graph view unmanageable.
 
@@ -8,7 +9,7 @@ enableToc: false # do not show a table of contents on this page
 
 ![[CleanShot 2022-05-21 at 15.43.59.png]]
 
-Expanding on that idea, I believe that, similar to Finder's view of nested folders, we could let people traverse node-->edge-->node-->edge relationships with simple arrow commands. So in the above example, it might look like you select the Michaelangelo option and it shows you the relationship options from there, you select the relationship, then select a node from within there, and on...
+Expanding on that idea, I believe that, similar to Finder's view of nested folders ([Miller Columns](https://en.wikipedia.org/wiki/Miller_columns)), we could let people traverse node-->edge-->node-->edge relationships with simple arrow commands. So in the above example, it might look like you select the Michaelangelo option and it shows you the relationship options from there, you select the relationship, then select a node from within there, and on...
 
 Loose mockups below:
 

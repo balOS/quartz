@@ -1,6 +1,7 @@
 ---
-title: "C- People need a way of promoting and demoting knowledge in a decentralized knowledge graph"
-enableToc: false # do not show a table of contents on this page
+title: C- People need a way of promoting and demoting knowledge in a decentralized knowledge graph
+enableToc: false
+tags: claim
 ---
 ##### Work in Progress
 #WIP

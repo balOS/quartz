@@ -1,6 +1,7 @@
 ---
-title: "C- Effective synthesis is necessary for innovation and scientific progress"
-enableToc: false # do not show a table of contents on this page
+title: C- Effective synthesis is necessary for innovation and scientific progress
+enableToc: false
+tags: claim
 ---
 
 Authored By:: [[P- Joel Chan]]

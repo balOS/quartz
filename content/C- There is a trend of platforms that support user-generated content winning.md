@@ -1,6 +1,7 @@
 ---
-title: "C- There is a trend of platforms that support user-generated content winning"
-enableToc: false # do not show a table of contents on this page
+title: C- There is a trend of platforms that support user-generated content winning
+enableToc: false
+tags: claim
 ---
 [[Q- What user behavior is required to maintain a decentralized knowledge graph]]
 

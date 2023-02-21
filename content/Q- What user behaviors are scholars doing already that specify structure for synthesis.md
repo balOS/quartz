@@ -1,6 +1,7 @@
 ---
-title: "Q- What user behaviors are scholars doing already that specify structure for synthesis"
-enableToc: false # do not show a table of contents on this page
+title: Q- What user behaviors are scholars doing already that specify structure for synthesis
+enableToc: false
+tags: question
 ---
 Authored By:: [[P- Joel Chan]], [[P- Rob Haisfield]]
 

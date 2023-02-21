@@ -1,6 +1,7 @@
 ---
-title: "R- Collaborative information synthesis"
-enableToc: false # do not show a table of contents on this page
+title: R- Collaborative information synthesis
+enableToc: false
+tags: source
 ---
 Authored By:: [[P- Joel Chan]]
 

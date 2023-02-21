@@ -1,14 +1,14 @@
 ---
-title: "R- Information and Context"
-enableToc: false # do not show a table of contents on this page
+title: R- Information and Context
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
 author: 
-year:
+year: 
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@dourishInformationContextLessons1993"
+alias: @dourishInformationContextLessons1993
 ---
 
 - #references

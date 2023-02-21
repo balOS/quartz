@@ -1,6 +1,7 @@
 ---
-title: "C- Most people will primarily consume information"
-enableToc: false # do not show a table of contents on this page
+title: C- Most people will primarily consume information
+enableToc: false
+tags: claim
 ---
 Authored By:: [[P- Brendan Langen]], [[P- Rob Haisfield]]
 

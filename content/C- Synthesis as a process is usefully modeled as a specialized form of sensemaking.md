@@ -1,6 +1,7 @@
 ---
-title: "C- Synthesis as a process is usefully modeled as a specialized form of sensemaking"
-enableToc: false # do not show a table of contents on this page
+title: C- Synthesis as a process is usefully modeled as a specialized form of sensemaking
+enableToc: false
+tags: claim
 ---
 Authored By:: [[P- Joel Chan]]
 

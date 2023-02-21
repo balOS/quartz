@@ -1,6 +1,7 @@
 ---
-title: "Q- What workflows and behaviors facilitate synthesis"
-enableToc: false # do not show a table of contents on this page
+title: Q- What workflows and behaviors facilitate synthesis
+enableToc: false
+tags: question
 ---
 Authored By:: [[P- Rob Haisfield]]
 

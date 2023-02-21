@@ -1,14 +1,14 @@
 ---
-title: "R- The minds eye in chess"
-enableToc: false # do not show a table of contents on this page
+title: R- The minds eye in chess
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "WG Chase"
+author: WG Chase
 year: 1973
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@chaseMindEyeChess1973"
+alias: @chaseMindEyeChess1973
 ---
 
 

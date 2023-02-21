@@ -1,14 +1,14 @@
 ---
-title: "R- The SWAN biomedical discourse ontology"
-enableToc: false # do not show a table of contents on this page
+title: R- The SWAN biomedical discourse ontology
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Paolo Ciccarese, Elizabeth Wu, Gwen Wong, Marco Ocana, June Kinoshita, Alan Ruttenberg, and Tim Clarke"
+author: Paolo Ciccarese, Elizabeth Wu, Gwen Wong, Marco Ocana, June Kinoshita, Alan Ruttenberg, and Tim Clarke
 year: 2008
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@ciccareseSWANBiomedicalDiscourse2008"
+alias: @ciccareseSWANBiomedicalDiscourse2008
 ---
 
 ### The SWAN biomedical discourse ontology

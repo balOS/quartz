@@ -1,6 +1,7 @@
 ---
-title: "C- Compression facilitates synthesis"
-enableToc: false # do not show a table of contents on this page
+title: C- Compression facilitates synthesis
+enableToc: false
+tags: claim
 ---
 Authored By:: [[P- Joel Chan]]
 

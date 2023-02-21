@@ -1,0 +1,27 @@
+{
+  "global_settings": {
+    "enable_debug_mode": false,
+    "enable_dnd": false,
+    "enable_show_state": false,
+    "logger_level_info": "error",
+    "media_settings": {
+      "enable_media_view": true,
+      "width": 100,
+      "height": 100
+    }
+  },
+  "local_settings": {
+    "remove_field_when_delete_column": false,
+    "cell_size": "normal",
+    "sticky_first_column": false,
+    "group_folder_column": "",
+    "show_metadata_created": false,
+    "show_metadata_modified": false,
+    "show_metadata_tasks": false,
+    "source_data": "current_folder",
+    "source_form_result": "root",
+    "frontmatter_quote_wrap": false,
+    "row_templates_folder": "/",
+    "current_row_template": ""
+  }
+}

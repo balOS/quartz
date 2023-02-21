@@ -1,14 +1,14 @@
 ---
-title: "R- Types of synthesis and their criteria"
-enableToc: false # do not show a table of contents on this page
+title: R- Types of synthesis and their criteria
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Kenneth Strike, George Posner"
+author: Kenneth Strike, George Posner
 year: 1983
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@strikeTypesSynthesisTheir1983"
+alias: @strikeTypesSynthesisTheir1983
 ---
 
 

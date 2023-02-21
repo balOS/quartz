@@ -1,14 +1,14 @@
 ---
-title: "R- Darwin on man A psychological study of scientific creativity"
-enableToc: false # do not show a table of contents on this page
+title: R- Darwin on man A psychological study of scientific creativity
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Howard E. Gruber, Paul H. Barrett"
+author: Howard E. Gruber, Paul H. Barrett
 year: 1974
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@gruberDarwinManPsychological1974"
+alias: @gruberDarwinManPsychological1974
 ---
 
 -   Title: Darwin on man: A psychological study of scientific creativity

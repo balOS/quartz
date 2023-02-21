@@ -1,14 +1,14 @@
 ---
-title: "R- Beyond Boundary Objects"
-enableToc: false # do not show a table of contents on this page
+title: R- Beyond Boundary Objects
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
 author: 
-year:
+year: 
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@luttersBoundaryObjectsCollaborative2007"
+alias: @luttersBoundaryObjectsCollaborative2007
 ---
 - #references
     - Title: Beyond Boundary Objects: Collaborative Reuse in Aircraft Technical Support

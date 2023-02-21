@@ -1,6 +1,7 @@
 ---
-title: "C- It will be important to capture the potential energy of information consumption"
-enableToc: false # do not show a table of contents on this page
+title: C- It will be important to capture the potential energy of information consumption
+enableToc: false
+tags: claim
 ---
 Authored By:: [[P- Rob Haisfield]]
 

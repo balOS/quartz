@@ -1,14 +1,14 @@
 ---
-title: "R- Prune Structural Editor"
-enableToc: false # do not show a table of contents on this page
+title: R- Prune Structural Editor
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Kent Beck, Thiago Harai"
+author: Kent Beck, Thiago Harai
 year: 2015
 reference: "https://m.facebook.com/nt/screen/?params=%7B%22note_id%22%3A994298340981590%7D&path=%2Fnotes%2Fnote%2F&refsrc=deprecated&_rdr"
-tags: 
+tags: source
 status: 
-alias:
+alias: 
 ---
 
 [[C- A structural editor can make a DSL approachable to end-users]] [[structural editor]]

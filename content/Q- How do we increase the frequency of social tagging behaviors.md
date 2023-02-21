@@ -1,6 +1,7 @@
 ---
-title: "Q- How do we increase the frequency of social tagging behaviors"
-enableToc: false # do not show a table of contents on this page
+title: Q- How do we increase the frequency of social tagging behaviors
+enableToc: false
+tags: question
 ---
 [[C- Social tagging is a key user behavior to managing a decentralized knowledge graph]]
 

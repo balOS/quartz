@@ -1,6 +1,7 @@
 ---
-title: "C- Linked references are a smart default for related items"
-enableToc: false # do not show a table of contents on this page
+title: C- Linked references are a smart default for related items
+enableToc: false
+tags: claim
 ---
 
 Authored By:: [[P- Rob Haisfield]]

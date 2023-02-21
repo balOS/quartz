@@ -1,6 +1,7 @@
 ---
-title: "R- G6 large clustered graph"
-enableToc: false # do not show a table of contents on this page
+title: R- G6 large clustered graph
+enableToc: false
+tags: source
 ---
 https://g6.antv.vision/en/largegraph [[Q- How could a graph database structure be visualized and perceived by end users in a more helpful way than a large graph]]
 

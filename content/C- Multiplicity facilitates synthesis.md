@@ -1,3 +1,6 @@
 ---
-title: "C- Multiplicity is necessary for synthesis"
+title: C- Multiplicity facilitates synthesis
+tags: claim
+aliases:
+ - /C-Multiplicity-facilitates-synthesis/
 ---

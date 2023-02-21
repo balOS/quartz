@@ -1,14 +1,14 @@
 ---
-title: "R- Generating research questions through problematization"
-enableToc: false # do not show a table of contents on this page
+title: R- Generating research questions through problematization
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Mats Alvesson, Jörgen Sandberg"
+author: Mats Alvesson, Jörgen Sandberg
 year: 2011
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@alvessonGeneratingResearchQuestions2011"
+alias: @alvessonGeneratingResearchQuestions2011
 ---
 
 -   #[[references]]

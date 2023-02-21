@@ -1,14 +1,14 @@
 ---
-title: "R- Context Grabbing Assigning Metadata in Large Document Collections"
-enableToc: false # do not show a table of contents on this page
+title: R- Context Grabbing Assigning Metadata in Large Document Collections
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
 author: 
-year:
+year: 
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@hinrichsContextGrabbingAssigning2005"
+alias: @hinrichsContextGrabbingAssigning2005
 ---
 
 - #references

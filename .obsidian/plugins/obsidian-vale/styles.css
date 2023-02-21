@@ -1,0 +1,255 @@
+.obsidian-vale {
+  /*
+   * Variables
+   */
+  --vale-alert-border-color: var(--background-modifier-border);
+  --vale-alert-border-color-hover: var(--interactive-accent);
+  --vale-alert-background-color: var(--background-primary);
+
+  /* Link */
+  --vale-alert-link-color: var(--text-muted);
+  --vale-alert-link-color-hover: var(--text-normal);
+
+  /* Severity */
+  --vale-alert-severity-suggestion-color: rgba(0, 0, 0, 0.87);
+  --vale-alert-severity-suggestion-background-color: #8981f3;
+  --vale-alert-severity-suggestion-border-color: transparent;
+  --vale-alert-severity-warning-color: rgba(0, 0, 0, 0.87);
+  --vale-alert-severity-warning-background-color: #e9b35f;
+  --vale-alert-severity-warning-border-color: transparent;
+  --vale-alert-severity-error-color: rgba(0, 0, 0, 0.87);
+  --vale-alert-severity-error-background-color: #da615c;
+  --vale-alert-severity-error-border-color: transparent;
+
+  /* Check name */
+  --vale-alert-check-color: var(--text-muted);
+  --vale-alert-check-background-color: var(--background-secondary);
+  --vale-alert-check-border-color: var(--background-modifier-border);
+
+  /* Matched text */
+  --vale-alert-match-color: var(--text-normal);
+  --vale-alert-match-background-color: var(--interactive-normal);
+  --vale-alert-match-border-color: var(--background-modifier-border);
+
+  height: 100%;
+}
+
+/*
+   * Classes
+   */
+.obsidian-vale .alert {
+  margin-bottom: 5px;
+  cursor: pointer;
+  transition: 0.2s all;
+  padding: 10px;
+  border-radius: 4px;
+
+  /* Customizable */
+  border: 1px solid var(--vale-alert-border-color);
+  background-color: var(--vale-alert-background-color);
+}
+
+.obsidian-vale .alert:hover {
+  transition: 0.2s all;
+
+  /* Customizable */
+  /* border: 1px solid var(--vale-alert-border-color-hover); */
+}
+
+.obsidian-vale .alert__header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 5px;
+}
+
+.obsidian-vale .alert__link {
+  /* Customizable */
+  color: var(--vale-alert-link-color);
+}
+
+.obsidian-vale .alert__link:hover {
+  /* Customizable */
+  color: var(--vale-alert-link-color-hover);
+}
+
+.obsidian-vale .alert__severity {
+  font-size: 11px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+.obsidian-vale .alert__severity-text--error {
+  color: var(--vale-alert-severity-error-background-color);
+}
+.obsidian-vale .alert__severity-text--warning {
+  color: var(--vale-alert-severity-warning-background-color);
+}
+.obsidian-vale .alert__severity-text--suggestion {
+  color: var(--vale-alert-severity-suggestion-background-color);
+}
+
+.obsidian-vale .alert__check {
+  font-size: 13px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  font-weight: 600;
+}
+
+.obsidian-vale .alert__match {
+  font-size: 1rem;
+  padding: 5px 0;
+  white-space: wrap;
+  overflow: hidden;
+
+  /* Customizable */
+  background-color: var(--vale-alert-match-background-color);
+  color: var(--vale-alert-match-color);
+  border-radius: 3px;
+  border: 1px solid var(--vale-alert-match-border-color);
+  display: inline-block;
+  line-height: 1;
+  padding: 4px 6px;
+}
+
+.obsidian-vale .alert__message {
+  font-size: 13px;
+  white-space: wrap;
+  overflow: hidden;
+  padding: 4px 0;
+}
+
+.obsidian-vale .error {
+  border-left: 5px solid var(--background-modifier-error);
+  background-color: rgba(var(--background-modifier-error-rgb), 0.38);
+  padding: 10px;
+  margin-bottom: 5px;
+}
+
+.obsidian-vale .success {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.obsidian-vale .success-icon {
+  color: var(--background-modifier-success);
+}
+
+.obsidian-vale .success-text {
+  color: var(--background-modifier-success);
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.loader,
+.loader:before,
+.loader:after {
+  background: var(--interactive-accent);
+  -webkit-animation: load1 1s infinite ease-in-out;
+  animation: load1 1s infinite ease-in-out;
+  width: 1em;
+  height: 4em;
+}
+.loader {
+  color: var(--interactive-accent);
+  text-indent: -9999em;
+  margin: 88px auto;
+  position: relative;
+  font-size: 11px;
+  -webkit-transform: translateZ(0);
+  -ms-transform: translateZ(0);
+  transform: translateZ(0);
+  -webkit-animation-delay: -0.16s;
+  animation-delay: -0.16s;
+}
+.loader:before,
+.loader:after {
+  position: absolute;
+  top: 0;
+  content: "";
+}
+.loader:before {
+  left: -1.5em;
+  -webkit-animation-delay: -0.32s;
+  animation-delay: -0.32s;
+}
+.loader:after {
+  left: 1.5em;
+}
+@-webkit-keyframes load1 {
+  0%,
+  80%,
+  100% {
+    box-shadow: 0 0;
+    height: 4em;
+  }
+  40% {
+    box-shadow: 0 -2em;
+    height: 5em;
+  }
+}
+@keyframes load1 {
+  0%,
+  80%,
+  100% {
+    box-shadow: 0 0;
+    height: 4em;
+  }
+  40% {
+    box-shadow: 0 -2em;
+    height: 5em;
+  }
+}
+
+.settings-page-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.settings-page-back-button {
+  padding: 0;
+  margin: 0;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.vale-underline-highlight {
+  background-color: var(--text-highlight-bg);
+}
+.vale-underline {
+  box-shadow: inset 0 -2px #8981f3;
+}
+.vale-underline:hover {
+  cursor: pointer;
+}
+
+.vale-underline.vale-error {
+  box-shadow: inset 0 -2px #da615c;
+}
+.vale-underline.vale-warning {
+  box-shadow: inset 0 -2px #e9b35f;
+}
+.vale-underline.vale-suggestion {
+  box-shadow: inset 0 -2px #8981f3;
+}
+
+.obsidian-vale .alert--highlighted {
+  border: 1px solid var(--interactive-accent);
+  border-left-width: 10px;
+}
+
+.obsidian-vale .alert--highlighted:last-child {
+  margin-bottom: 0;
+}
+.obsidian-vale .alert--highlighted:first-child {
+  margin-top: 0;
+}

@@ -1,14 +1,14 @@
 ---
-title: "R- Institutional Ecology Translations and Boundary Objects"
-enableToc: false # do not show a table of contents on this page
+title: R- Institutional Ecology Translations and Boundary Objects
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Susan Leigh Star, James R. Griesemer"
+author: Susan Leigh Star, James R. Griesemer
 year: 1989
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@starInstitutionalEcologyTranslations1989"
+alias: @starInstitutionalEcologyTranslations1989
 ---
 
   -   #references

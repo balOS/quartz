@@ -1,14 +1,14 @@
 ---
-title: "R- Making the Implicit Explicit"
-enableToc: false # do not show a table of contents on this page
+title: R- Making the Implicit Explicit
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Barbara E. Lovitts"
+author: Barbara E. Lovitts
 year: 2007
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@lovittsMakingImplicitExplicit2007"
+alias: @lovittsMakingImplicitExplicit2007
 ---
 
 - lovittsMakingImplicitExplicit2007

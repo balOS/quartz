@@ -1,14 +1,14 @@
 ---
-title: "R- The anatomy of a nanopublication"
-enableToc: false # do not show a table of contents on this page
+title: R- The anatomy of a nanopublication
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Paul Groth, Andrew Gibson, Jan Velterop"
+author: Paul Groth, Andrew Gibson, Jan Velterop
 year: 2010
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@grothAnatomyNanopublication2010"
+alias: @grothAnatomyNanopublication2010
 ---
 
 - #references

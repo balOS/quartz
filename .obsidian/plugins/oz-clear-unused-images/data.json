@@ -1,0 +1,7 @@
+{
+  "deleteOption": "system-trash",
+  "logsModal": true,
+  "excludedFolders": "knowledge-graphs-ux",
+  "ribbonIcon": true,
+  "excludeSubfolders": true
+}

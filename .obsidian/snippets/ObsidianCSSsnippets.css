@@ -1,0 +1,124 @@
+
+.embedded-note-titles .markdown-preview-view > h1, /* ...preview mode styles... */
+.embedded-note-titles .is-readable-line-width.markdown-preview-view > h1, /* ...preview mode styles with readable line width enabled... */
+.embedded-note-titles .CodeMirror-scroll > h1, /* ...edit mode styles... */
+.embedded-note-titles .is-readable-line-width .CodeMirror-scroll > h1 /* ...edit mode styles with readable line width enabled... */
+{
+font-size: 15px !important;
+}
+
+
+
+
+.theme-dark, .theme-light {
+    --default-font: 'Calendas Plus';
+}
+
+/* wrap the contents of title headers */
+/*.view-header-title {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    white-space: pre-wrap;
+    line-height: 25px;
+}
+.view-header {
+    height: auto;
+}
+*/
+/* number lists in dataview */
+.table-view-table {
+    counter-reset: section;
+}
+
+/* Change the highlight color */
+
+.theme-dark {
+    --text-highlight-bg: rgba(158, 123, 155, 0.4);
+}
+
+/* Inline transclusion */
+/*
+.markdown-preview-view .internal-embed:not(.image-embed),
+.internal-embed > .markdown-embed,
+.internal-embed > .markdown-embed > .markdown-embed-content,
+.internal-embed > .markdown-embed > .markdown-embed-content > .markdown-preview-view,
+.internal-embed > .markdown-embed > .markdown-embed-content > .markdown-preview-view > .markdown-preview-sizer,
+.internal-embed > .markdown-embed > .markdown-embed-content > .markdown-preview-view > .markdown-preview-sizer > div,
+.internal-embed > .markdown-embed > .markdown-embed-content > .markdown-preview-view > .markdown-preview-sizer > div > p,
+.internal-embed > .markdown-embed > .markdown-embed-content > .markdown-preview-view > .markdown-preview-sizer > div > div {
+    display: inline;
+    border: 0;
+}
+
+.internal-embed > .markdown-embed > .markdown-embed-title,
+.internal-embed > .markdown-embed > .markdown-embed-link {
+    display: none;
+}
+
+
+.table-view-table > tbody > tr > td:first-child::before {
+    counter-increment: section;
+    content: counter(section) ". ";
+}
+*/
+/*underline bold in dark mode */
+strong {
+    text-decoration: underline #fabd2f !important;
+    text-underline-offset: 3px !important;
+    text-decoration-thickness: 3px !important;
+}
+
+.view-content img:active {
+    cursor:zoom-out;
+    display:block;
+    z-index:100;
+    position:fixed;
+    background:var(--background-translucent);
+    top:50%;
+    transform:translateY(-50%);
+    left:0;
+    width: 100%;
+    max-width: 100%;
+    min-width: unset;
+    height: unset;
+    max-height: unset;
+    min-height: unset;
+  }
+
+  .popover.hover-popover:not(.image-embed), .popover.hover-popover:not(.image-embed) > .markdown-embed {
+    height: 500px;
+    width: 600px;
+    max-height: 500px;
+    max-width: 600px;
+  }
+  /* For image file popover hover preview */
+  .popover.hover-popover.image-embed > img {
+    min-height: 250px;
+    max-height: 80vh;
+    min-width: 600px;
+    max-width: 80vw;
+  }
+  .popover.hover-popover.image-embed {
+    left: 50vw !important;
+    top: 50vh !important;
+    transform: translate(-50%,-50%);
+    width: unset;
+    max-height: unset;
+  }
+  /* On embed page preview click image to make larger */
+  .popover.hover-popover:not(.image-embed) img:active {
+    cursor:zoom-out;
+    display:block;
+    z-index:100;
+    position:fixed;
+    background:var(--background-translucent);
+    top:0%;
+    left:0%;
+    transform:translate(50%,50%);
+    width: unset;
+    max-width: unset;
+    min-width: unset;
+    height: unset;
+    max-height: unset;
+    min-height: unset;
+  }

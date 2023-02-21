@@ -1,6 +1,7 @@
 ---
-title: "Q- What is a hypertext notebook"
-enableToc: false # do not show a table of contents on this page
+title: Q- What is a hypertext notebook
+enableToc: false
+tags: question
 ---
 Authored By:: [[P- Rob Haisfield]]
 

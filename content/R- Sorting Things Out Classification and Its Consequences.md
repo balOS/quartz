@@ -1,14 +1,14 @@
 ---
-title: "R- Sorting Things Out Classification and Its Consequences"
-enableToc: false # do not show a table of contents on this page
+title: R- Sorting Things Out Classification and Its Consequences
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Geoffrey C Bowker, Susan Leigh Star"
+author: Geoffrey C Bowker, Susan Leigh Star
 year: 2000
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@bowkerSortingThingsOut2000"
+alias: @bowkerSortingThingsOut2000
 ---
 
 -   Title: Sorting Things Out: Classification and Its Consequences

@@ -1,6 +1,7 @@
 ---
-title: "Q- What is the data structure of a graph built to facilitate decentralized knowledge synthesis"
-enableToc: false # do not show a table of contents on this page
+title: Q- What is the data structure of a graph built to facilitate decentralized knowledge synthesis
+enableToc: false
+tags: question
 ---
 Authored By:: [[P- Rob Haisfield]]
 

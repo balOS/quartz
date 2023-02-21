@@ -1,14 +1,14 @@
 ---
-title: "R- A Troubleshooters Checklist for Prospective Authors"
-enableToc: false # do not show a table of contents on this page
+title: R- A Troubleshooters Checklist for Prospective Authors
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Adrienne Alton-Lee"
+author: Adrienne Alton-Lee
 year: 1998
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@alton-leeTroubleshooterChecklistProspective1998"
+alias: @alton-leeTroubleshooterChecklistProspective1998
 ---
 
 -   #references

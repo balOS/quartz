@@ -1,6 +1,7 @@
 ---
-title: "C- An ideal decentralized knowledge graph would map a social graph and a knowledge graph"
-enableToc: false # do not show a table of contents on this page
+title: C- An ideal decentralized knowledge graph would map a social graph and a knowledge graph
+enableToc: false
+tags: claim
 ---
 Authored By:: [[P- Rob Haisfield]]
 

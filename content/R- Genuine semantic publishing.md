@@ -1,14 +1,14 @@
 ---
-title: "R- Genuine semantic publishing"
-enableToc: false # do not show a table of contents on this page
+title: R- Genuine semantic publishing
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
 author: 
-year:
+year: 
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@kuhnGenuineSemanticPublishing2017"
+alias: @kuhnGenuineSemanticPublishing2017
 ---
 
 #### Core Questions

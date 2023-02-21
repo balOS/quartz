@@ -1,14 +1,14 @@
 ---
-title: "R- Formality Considered Harmful"
-enableToc: false # do not show a table of contents on this page
+title: R- Formality Considered Harmful
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Frank Shipman, Catherine Marshall"
+author: Frank Shipman, Catherine Marshall
 year: 1999
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@shipmanFormalityConsideredHarmful1999"
+alias: @shipmanFormalityConsideredHarmful1999
 ---
 
 - #references

@@ -1,14 +1,14 @@
 ---
-title: "R- Why Hypothesis Testers Should Spend Less Time Testing Hypotheses"
-enableToc: false # do not show a table of contents on this page
+title: R- Why Hypothesis Testers Should Spend Less Time Testing Hypotheses
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Anne M. Scheel, Leonid Tiokhin, Peder M. Isager, Daniël Lakens"
+author: Anne M. Scheel, Leonid Tiokhin, Peder M. Isager, Daniël Lakens
 year: 2020
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@scheelWhyHypothesisTesters2020"
+alias: @scheelWhyHypothesisTesters2020
 ---
 
 -   #[[references]]

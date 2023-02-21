@@ -1,14 +1,14 @@
 ---
-title: "R- Micropublications a semantic model"
-enableToc: false # do not show a table of contents on this page
+title: R- Micropublications a semantic model
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
 author: 
-year:
+year: 
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@clarkMicropublicationsSemanticModel2014"
+alias: @clarkMicropublicationsSemanticModel2014
 ---
 
 ### Micropublications: a semantic model

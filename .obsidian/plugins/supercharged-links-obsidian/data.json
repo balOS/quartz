@@ -1,0 +1,29 @@
+{
+  "targetAttributes": [],
+  "targetTags": true,
+  "presetFields": [],
+  "displayFieldsInContextMenu": true,
+  "globallyIgnoredFields": [],
+  "classFilesPath": "",
+  "getFromInlineField": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "path",
+      "name": "",
+      "value": "\"C- \"",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "8da6-82aa",
+      "selectText": true,
+      "selectAppend": false,
+      "selectPrepend": false,
+      "selectBackground": true
+    }
+  ]
+}

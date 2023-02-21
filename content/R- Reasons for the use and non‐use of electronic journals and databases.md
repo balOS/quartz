@@ -1,14 +1,14 @@
 ---
-title: "R- Reasons for the use and non‐use of electronic journals and databases"
-enableToc: false # do not show a table of contents on this page
+title: R- Reasons for the use and non‐use of electronic journals and databases
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Sanna Talja,  Hanni Maula"
+author: Sanna Talja,  Hanni Maula
 year: 2003
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@taljaReasonsUseNon2003"
+alias: @taljaReasonsUseNon2003
 ---
 - #references
     - Title: Reasons for the use and non‐use of electronic journals and databases: A domain analytic study in four scholarly disciplines

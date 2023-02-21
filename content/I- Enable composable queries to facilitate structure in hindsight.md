@@ -1,6 +1,7 @@
 ---
-title: "I- Enable composable queries to facilitate structure in hindsight"
-enableToc: false # do not show a table of contents on this page
+title: I- Enable composable queries to facilitate structure in hindsight
+enableToc: false
+tags: idea
 ---
 Authored By:: [[P- Rob Haisfield]]
 

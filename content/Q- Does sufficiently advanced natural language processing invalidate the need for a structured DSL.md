@@ -1,6 +1,7 @@
 ---
-title: "Q- Does sufficiently advanced natural language processing invalidate the need for a structured DSL"
-enableToc: false # do not show a table of contents on this page
+title: Q- Does sufficiently advanced natural language processing invalidate the need for a structured DSL
+enableToc: false
+tags: question
 ---
 As made clear in [[I- A DSL for a discourse graph with information entry, visualization, and retrieval]], I believe syntax to be useful for creating a tool for thought. In my experience using [[Roam Research]], indentation and wikilinks essentially became my language for communicating with the computer that X relates to Y. Queries became my power tool, because I knew that given the way that I had written my outlines, the queries were a representation of my questions that Roam would understand, such that I knew it would pull up the correct answer.
 

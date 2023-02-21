@@ -1,14 +1,14 @@
 ---
-title: "R- Could a Neuroscientist Understand a Microprocessor"
-enableToc: false # do not show a table of contents on this page
+title: R- Could a Neuroscientist Understand a Microprocessor
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Eric Jonas, Konrad Paul Kording"
+author: Eric Jonas, Konrad Paul Kording
 year: 2017
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@jonasCouldNeuroscientistUnderstand2017"
+alias: @jonasCouldNeuroscientistUnderstand2017
 ---
 
 -   #[[references]]

@@ -1,6 +1,7 @@
 ---
-title: "Q- Should social knowledge management be thought of as social networks with really solid defaults conventions and incentives"
-enableToc: false # do not show a table of contents on this page
+title: Q- Should social knowledge management be thought of as social networks with really solid defaults conventions and incentives
+enableToc: false
+tags: question
 ---
 [[Q- What is the behavior of members of explorer communities]]
 

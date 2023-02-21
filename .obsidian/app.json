@@ -1,0 +1,23 @@
+{
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "fileSortOrder": "byCreatedTime",
+  "promptDelete": false,
+  "readableLineLength": true,
+  "autoConvertHtml": true,
+  "attachmentFolderPath": "Images",
+  "vimMode": false,
+  "communityPluginSortOrder": "download",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "livePreview": true,
+  "showUnsupportedFiles": true,
+  "legacyEditor": false
+}

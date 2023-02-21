@@ -1,6 +1,7 @@
 ---
-title: "C- Wikum allows you to summarize groups of comments on a Hacker News style forum"
-enableToc: false # do not show a table of contents on this page
+title: C- Wikum allows you to summarize groups of comments on a Hacker News style forum
+enableToc: false
+tags: claim
 ---
 
 Authored By:: [[P- Rob Haisfield]]

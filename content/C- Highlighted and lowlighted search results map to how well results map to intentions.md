@@ -1,6 +1,7 @@
 ---
-title: "C- Highlighted and lowlighted search results map to how well results map to intentions"
-enableToc: false # do not show a table of contents on this page
+title: C- Highlighted and lowlighted search results map to how well results map to intentions
+enableToc: false
+tags: claim
 ---
 Authored By:: [[P- Rob Haisfield]]
 

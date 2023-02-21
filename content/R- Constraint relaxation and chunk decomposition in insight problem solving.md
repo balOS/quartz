@@ -1,14 +1,14 @@
 ---
-title: "R- Constraint relaxation and chunk decomposition in insight problem solving"
-enableToc: false # do not show a table of contents on this page
+title: R- Constraint relaxation and chunk decomposition in insight problem solving
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
 author: 
-year:
+year: 
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@knoblichConstraintRelaxationChunk1999"
+alias: @knoblichConstraintRelaxationChunk1999
 ---
 - #[[references]]
     - Title: Constraint relaxation and chunk decomposition in insight problem solving

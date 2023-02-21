@@ -1,14 +1,14 @@
 ---
-title: "R- Ambiguity and Engagement"
-enableToc: false # do not show a table of contents on this page
+title: R- Ambiguity and Engagement
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Peter McMahan, James A. Evans"
+author: Peter McMahan, James A. Evans
 year: 2018
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@mcmahanAmbiguityEngagement2018"
+alias: @mcmahanAmbiguityEngagement2018
 ---
 
 -   Title: Ambiguity and Engagement

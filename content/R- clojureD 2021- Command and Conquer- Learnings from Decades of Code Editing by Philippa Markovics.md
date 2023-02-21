@@ -1,13 +1,13 @@
 ---
-title: "R- clojureD 2021- Command and Conquer- Learnings from Decades of Code Editing by Philippa Markovics"
+title: R- clojureD 2021- Command and Conquer- Learnings from Decades of Code Editing by Philippa Markovics
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
 author: Philippa Markovics
-year:
+year: 
 reference: 
-tags: 
+tags: source
 status: 
-alias:
+alias: 
 ---
 Notes related to this talk live in the [[Nextjournal]] page.
 

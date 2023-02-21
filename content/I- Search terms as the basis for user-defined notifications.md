@@ -1,8 +1,9 @@
 ---
-title: "I- Search terms as the basis for user-defined notifications"
+title: I- Search terms as the basis for user-defined notifications
 aliases:
-- /I-Utilize-search-terms-as-the-basis-for-user-defined-notifications
-enableToc: false # do not show a table of contents on this page
+ - /I-Utilize-search-terms-as-the-basis-for-user-defined-notifications
+enableToc: false
+tags: idea
 ---
 Authored By:: [[P- Rob Haisfield]]
 

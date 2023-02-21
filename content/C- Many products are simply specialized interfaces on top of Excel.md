@@ -1,6 +1,7 @@
 ---
-title: "C- Many products are simply specialized interfaces on top of Excel"
-enableToc: false # do not show a table of contents on this page
+title: C- Many products are simply specialized interfaces on top of Excel
+enableToc: false
+tags: claim
 ---
 
 Authored By:: 

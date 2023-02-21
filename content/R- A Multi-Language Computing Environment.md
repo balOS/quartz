@@ -1,12 +1,12 @@
 ---
-title: "R- A Multi-Language Computing Environment"
-enableToc: false # do not show a table of contents on this page
+title: R- A Multi-Language Computing Environment
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Eric Schulte, Dan Davison, Thomas Dye, Carsten Dominik"
+author: Eric Schulte, Dan Davison, Thomas Dye, Carsten Dominik
 year: 2012
 reference: 
-tags: 
+tags: source
 status: 
 alias: "@schulteMultiLanguageComputingEnvironment2012"
 ---

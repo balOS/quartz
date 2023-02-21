@@ -1,13 +1,13 @@
 ---
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-title: "R- Organizing Knowledge with multi-level content"
+title: R- Organizing Knowledge with multi-level content
 author: Francis Miller
 year: 2018
 reference: "https://www.francismiller.com/organising_knowledge_paper.pdf"
-tags: 
+tags: source
 status: 
-alias:
+alias: 
 ---
 
 

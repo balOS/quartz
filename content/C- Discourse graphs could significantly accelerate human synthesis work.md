@@ -1,6 +1,7 @@
 ---
-title: "C- Discourse graphs could significantly accelerate human synthesis work"
-enableToc: false # do not show a table of contents on this page
+title: C- Discourse graphs could significantly accelerate human synthesis work
+enableToc: false
+tags: claim
 ---
 Authored By:: [[P- Joel Chan]]
 

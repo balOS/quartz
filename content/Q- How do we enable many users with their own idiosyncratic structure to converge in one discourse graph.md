@@ -1,6 +1,7 @@
 ---
-title: "Q- How do we enable many users with their own idiosyncratic structure to converge in one discourse graph"
-enableToc: false # do not show a table of contents on this page
+title: Q- How do we enable many users with their own idiosyncratic structure to converge in one discourse graph
+enableToc: false
+tags: question
 ---
 Authored by:: [[P- Rob Haisfield]]
 

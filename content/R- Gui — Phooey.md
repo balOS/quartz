@@ -1,14 +1,14 @@
 ---
-title: "R- Gui — Phooey"
-enableToc: false # do not show a table of contents on this page
+title: R- Gui — Phooey
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Max Van Kleek, Michael Bernstein, David Karger, MC Schraefel"
+author: Max Van Kleek, Michael Bernstein, David Karger, MC Schraefel
 year: 2007
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@vankleekGuiPhooeyCase2007"
+alias: @vankleekGuiPhooeyCase2007
 ---
 
 -   Title: Gui — Phooey!: The Case for Text Input

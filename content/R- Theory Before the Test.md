@@ -1,14 +1,14 @@
 ---
-title: "R- Theory Before the Test"
-enableToc: false # do not show a table of contents on this page
+title: R- Theory Before the Test
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Iris van Rooij, Giosuè Baggio"
+author: Iris van Rooij, Giosuè Baggio
 year: 2021
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@vanrooijTheoryTestHow2021"
+alias: @vanrooijTheoryTestHow2021
 ---
 
 -   #[[references]]

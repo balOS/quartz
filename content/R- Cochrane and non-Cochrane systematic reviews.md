@@ -1,14 +1,14 @@
 ---
-title: "R- Cochrane and non-Cochrane systematic reviews"
-enableToc: false # do not show a table of contents on this page
+title: R- Cochrane and non-Cochrane systematic reviews
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Padhraig S. Fleming, Jadbinder Seehra, Argy Polychronopoulou, Zbys Fedorowicz, Nikolaos Pandis"
+author: Padhraig S. Fleming, Jadbinder Seehra, Argy Polychronopoulou, Zbys Fedorowicz, Nikolaos Pandis
 year: 2013
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@flemingCochraneNonCochraneSystematic2013"
+alias: @flemingCochraneNonCochraneSystematic2013
 ---
 
 -   Metadata::

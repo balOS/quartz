@@ -1,6 +1,7 @@
 ---
-title: "C- End user programming enables people to bulk process notes"
-enableToc: false # do not show a table of contents on this page
+title: C- End user programming enables people to bulk process notes
+enableToc: false
+tags: claim
 ---
 
 Authored By:: [[P- Rob Haisfield]]

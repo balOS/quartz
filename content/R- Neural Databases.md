@@ -1,8 +1,9 @@
 ---
-title: "R- Neural Databases"
-enableToc: false # do not show a table of contents on this page
+title: R- Neural Databases
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
+tags: source
 ---
 Paper author: "James Thorne, Majid Yazdani, Marzieh Saeidi, Fabrizio Silvestri, Sebastian Riedel, Alon Halevy"
 year: 2021

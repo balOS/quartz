@@ -1,6 +1,7 @@
 ---
-title: "Q- How might we apply map filter reduce to notes and what other primitives are relevant to this domain"
-enableToc: false # do not show a table of contents on this page
+title: Q- How might we apply map filter reduce to notes and what other primitives are relevant to this domain
+enableToc: false
+tags: question
 ---
 Authored By:: [[P- Rob Haisfield]]
 

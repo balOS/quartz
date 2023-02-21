@@ -1,14 +1,14 @@
 ---
-title: "R- Towards a comprehensive model of the cognitive process and mechanisms of individual sensemaking"
-enableToc: false # do not show a table of contents on this page
+title: R- Towards a comprehensive model of the cognitive process and mechanisms of individual sensemaking
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Zhang Pengyi, Soergel Dagobert"
+author: Zhang Pengyi, Soergel Dagobert
 year: 2014
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@zhangpengyiComprehensiveModelCognitive2014"
+alias: @zhangpengyiComprehensiveModelCognitive2014
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "C- Synthesis is supported by Active Reading"
-enableToc: false # do not show a table of contents on this page
+title: C- Synthesis is supported by Active Reading
+enableToc: false
+tags: claim
 ---
 ##### Work in Progress
 #WIP

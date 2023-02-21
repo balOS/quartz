@@ -1,14 +1,14 @@
 ---
-title: "R- Roam can loosely be considered a DSL with a structural editor"
-enableToc: false # do not show a table of contents on this page
+title: R- Roam can loosely be considered a DSL with a structural editor
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Eli Parra" 
+author: Eli Parra
 year: 2021
 reference: 
-tags: 
+tags: source
 status: 
-alias:
+alias: 
 ---
 
 [[P- Elzr|Eli Parra]]'s [twitter thread](https://twitter.com/elzr/status/1378821500246065154) visualizes how [[Roam Research| Roam Research]] can be expanded upon through its base structure. Before introducing his core claims, he walks through a history of 1-way linking and why it allowed the web to scale, but has prevented progress in our ability to manipulate data and present different views. The web was able to scale aggressively because of 1-way links, but [[C- Claims gain implict meaning through their context of use]], and added [[C- Context is necessary for knowledge reuse|context is necessary for knowledge reuse]]. The invention of wikilinks was a step to enable Roam's core structure of bidirectional linking.

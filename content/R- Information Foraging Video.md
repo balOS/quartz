@@ -1,6 +1,7 @@
 ---
-title: "R- Information Foraging Video"
-enableToc: false # do not show a table of contents on this page
+title: R- Information Foraging Video
+enableToc: false
+tags: source
 ---
 
 {{< youtube _IbTZBMHiY4 >}}

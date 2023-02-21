@@ -1,6 +1,7 @@
 ---
-title: "Q- How can people maintain a decentralized discourse graph with a high quantity of information in it"
-enableToc: false # do not show a table of contents on this page
+title: Q- How can people maintain a decentralized discourse graph with a high quantity of information in it
+enableToc: false
+tags: question
 ---
 Authored By:: [[P- Rob Haisfield]]
 

@@ -1,6 +1,7 @@
 ---
-title: "C- An ideal decentralized discourse graph would enable people to view information at different levels of granularity through a ZUI"
-enableToc: false # do not show a table of contents on this page
+title: C- An ideal decentralized discourse graph would enable people to view information at different levels of granularity through a ZUI
+enableToc: false
+tags: claim
 ---
 See the [[ZUI]] page for a definition.
 

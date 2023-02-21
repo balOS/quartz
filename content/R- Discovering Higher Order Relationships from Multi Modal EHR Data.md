@@ -1,14 +1,14 @@
 ---
-title: "R- Discovering Higher Order Relationships from Multi Modal EHR Data"
-enableToc: false # do not show a table of contents on this page
+title: R- Discovering Higher Order Relationships from Multi Modal EHR Data
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Sutanay Choudhury"
+author: Sutanay Choudhury
 year: 2021
 reference: "https://www.youtube.com/watch?v=obxGAf_A0H8"
-tags: 
+tags: source
 status: 
-alias:
+alias: 
 ---
 
 [StanfordSTARR](https://www.youtube.com/channel/UC6iGiAO1dKwuC2wOrxnKiNw)

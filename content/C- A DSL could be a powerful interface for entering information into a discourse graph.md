@@ -1,7 +1,8 @@
 ---
-title: "C- A DSL could be a powerful interface for entering information into a discourse graph"
-enableToc: false # do not show a table of contents on this page
+title: C- A DSL could be a powerful interface for entering information into a discourse graph
+enableToc: false
 name: Blank
+tags: claim
 ---
 Authored By:: [[P- Rob Haisfield]]
 

@@ -1,9 +1,9 @@
 ---
-title: "I- Search terms as the basis for conditional formatting"
-enableToc: false # do not show a table of contents on this page
-aliases: 
-- /I-Utilize-Search-as-the-basis-for-conditional-formatting/
-enableToc: false # do not show a table of contents on this page
+title: I- Search terms as the basis for conditional formatting
+enableToc: false
+aliases:
+ - /I-Utilize-Search-as-the-basis-for-conditional-formatting/
+tags: idea
 ---
 
 Authored By:: [[P- Rob Haisfield]]

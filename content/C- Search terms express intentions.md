@@ -1,6 +1,7 @@
 ---
-title: "C- Search terms express intentions"
-enableToc: false # do not show a table of contents on this page
+title: C- Search terms express intentions
+enableToc: false
+tags: claim
 ---
 Authored By:: [[P- Rob Haisfield]]
 

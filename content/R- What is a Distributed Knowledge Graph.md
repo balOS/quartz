@@ -1,13 +1,13 @@
 ---
-title: "R- What is a Distributed Knowledge Graph"
-enableToc: false # do not show a table of contents on this page
-creation date: 2021-04-14 13:57
-modification date: Wednesday 14th April 2021 13:57:41
-tags: 2021/04/14
-author: "Joel Gustafson"
+title: R- What is a Distributed Knowledge Graph
+enableToc: false
+creation date: "2021-04-14 13:57"
+modification date: "Wednesday 14th April 2021 13:57:41"
+tags: source
+author: Joel Gustafson
 year: 2020
 reference: "https://notes.knowledgefutures.org/pub/belji1gd/release/2"
-alias: "@gustafsonWhatDistributedKnowledge2020"
+alias: @gustafsonWhatDistributedKnowledge2020
 ---
 [[2021-04-14]]
 

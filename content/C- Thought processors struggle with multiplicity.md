@@ -1,6 +1,7 @@
 ---
-title: "C- Thought processors struggle with multiplicity"
-enableToc: false # do not show a table of contents on this page
+title: C- Thought processors struggle with multiplicity
+enableToc: false
+tags: claim
 ---
 We found many of our interviewees wrote about the same topic in multiple forms across stages of development, often even rewriting full drafts of content once they reached a certain point, see also [[C- People process complex information in multiple levels and stages of processing]]. [[B12]] [[R10]] [[B2]]
 

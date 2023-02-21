@@ -1,14 +1,14 @@
 ---
-title: "R- Innovation Relies on the Obscure"
-enableToc: false # do not show a table of contents on this page
+title: R- Innovation Relies on the Obscure
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
 author: 
-year:
+year: 
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@mccaffreyInnovationReliesObscure2012"
+alias: @mccaffreyInnovationReliesObscure2012
 ---
 - [[@mccaffreyInnovationReliesObscure2012]]
 - #[[references]]

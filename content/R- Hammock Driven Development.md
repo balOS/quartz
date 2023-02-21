@@ -1,14 +1,14 @@
 ---
-title: "R- Hammock Driven Development"
-enableToc: false # do not show a table of contents on this page
+title: R- Hammock Driven Development
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
 author: Rich Hickey
 year: 2010
 reference: "https://www.youtube.com/watch?v=f84n5oFoZBc"
-tags: 
+tags: source
 status: 
-alias:
+alias: 
 ---
 https://www.youtube.com/watch?v=f84n5oFoZBc
 

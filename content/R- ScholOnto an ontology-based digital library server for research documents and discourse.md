@@ -1,14 +1,14 @@
 ---
-title: "R- ScholOnto an ontology-based digital library server for research documents and discourse"
-enableToc: false # do not show a table of contents on this page
+title: R- ScholOnto an ontology-based digital library server for research documents and discourse
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Simon Buckingham Shum, Enrico Motta, John Domingue"
+author: Simon Buckingham Shum, Enrico Motta, John Domingue
 year: 2000
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@shumScholOntoOntologybasedDigital2000"
+alias: @shumScholOntoOntologybasedDigital2000
 ---
 
 - #[[references]]

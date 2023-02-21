@@ -1,14 +1,14 @@
 ---
-title: "R- Epistemology and the socio-cognitive perspective in information science"
-enableToc: false # do not show a table of contents on this page
+title: R- Epistemology and the socio-cognitive perspective in information science
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
 author: 
-year:
+year: 
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@hjorlandEpistemologySociocognitivePerspective2002"
+alias: @hjorlandEpistemologySociocognitivePerspective2002
 ---
 
    - #[[references]]

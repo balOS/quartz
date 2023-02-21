@@ -1,14 +1,14 @@
 ---
-title: "R- Student readers use of library documents"
-enableToc: false # do not show a table of contents on this page
+title: R- Student readers use of library documents
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Kenton O'Hara, Fiona Smith, William Newman, Abigail Sellen"
+author: Kenton O'Hara, Fiona Smith, William Newman, Abigail Sellen
 year: 1998
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@oharaStudentReadersUse1998"
+alias: @oharaStudentReadersUse1998
 ---
 
 - #references

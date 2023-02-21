@@ -1,6 +1,7 @@
 ---
-title: "C- A structural editor can make a DSL approachable to end-users"
-enableToc: false # do not show a table of contents on this page
+title: C- A structural editor can make a DSL approachable to end-users
+enableToc: false
+tags: claim
 ---
 Authored By:: [[P- Rob Haisfield]]
 

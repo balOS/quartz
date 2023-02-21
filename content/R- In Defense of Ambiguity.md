@@ -1,14 +1,14 @@
 ---
-title: "R- In Defense of Ambiguity"
-enableToc: false # do not show a table of contents on this page
+title: R- In Defense of Ambiguity
+enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-author: "Patrick J Hayes, Harry Halpin"
+author: Patrick J Hayes, Harry Halpin
 year: 2008
 reference: 
-tags: 
+tags: source
 status: 
-alias: "@hayes2008defense"
+alias: @hayes2008defense
 ---
 
 -   Title: In defense of ambiguity
