@@ -8,7 +8,7 @@ year: 2007
 reference: 
 tags: source
 status: 
-alias: @vankleekGuiPhooeyCase2007
+alias: "@vankleekGuiPhooeyCase2007"
 ---
 
 -   Title: Gui — Phooey!: The Case for Text Input

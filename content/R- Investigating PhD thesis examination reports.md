@@ -8,7 +8,7 @@ year: 2004
 reference: 
 tags: source
 status: 
-alias: @holbrookInvestigatingPhDThesis2004
+alias: "@holbrookInvestigatingPhDThesis2004"
 ---
 
 -   Metadata:

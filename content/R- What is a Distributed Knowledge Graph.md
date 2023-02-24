@@ -7,7 +7,7 @@ tags: source
 author: Joel Gustafson
 year: 2020
 reference: "https://notes.knowledgefutures.org/pub/belji1gd/release/2"
-alias: @gustafsonWhatDistributedKnowledge2020
+alias: "@gustafsonWhatDistributedKnowledge2020"
 ---
 [[2021-04-14]]
 

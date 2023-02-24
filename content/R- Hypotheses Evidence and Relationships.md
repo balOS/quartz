@@ -8,7 +8,7 @@ year: 2009
 reference: 
 tags: source
 status: 
-alias: @dewaardHypothesesEvidenceRelationships2009
+alias: "@dewaardHypothesesEvidenceRelationships2009"
 ---
 
 - #references

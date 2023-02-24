@@ -8,7 +8,7 @@ year: 2011
 reference: 
 tags: source
 status: 
-alias: @randallDistributedOntologyBuilding2011
+alias: "@randallDistributedOntologyBuilding2011"
 ---
 -   Title: Distributed ontology building as practical work
 -   Meta:

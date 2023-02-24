@@ -8,7 +8,7 @@ year: 2000
 reference: 
 tags: source
 status: 
-alias: @shumScholOntoOntologybasedDigital2000
+alias: "@shumScholOntoOntologybasedDigital2000"
 ---
 
 - #[[references]]

@@ -8,7 +8,7 @@ year:
 reference: 
 tags: source
 status: 
-alias: @hjorlandEpistemologySociocognitivePerspective2002
+alias: "@hjorlandEpistemologySociocognitivePerspective2002"
 ---
 
    - #[[references]]

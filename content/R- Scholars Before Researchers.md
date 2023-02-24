@@ -8,7 +8,7 @@ year: 2005
 reference: 
 tags: source
 status: 
-alias: @booteScholarsResearchersCentrality2005
+alias: "@booteScholarsResearchersCentrality2005"
 ---
 
 -   #[[references]]

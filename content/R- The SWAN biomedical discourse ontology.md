@@ -8,7 +8,7 @@ year: 2008
 reference: 
 tags: source
 status: 
-alias: @ciccareseSWANBiomedicalDiscourse2008
+alias: "@ciccareseSWANBiomedicalDiscourse2008"
 ---
 
 ### The SWAN biomedical discourse ontology

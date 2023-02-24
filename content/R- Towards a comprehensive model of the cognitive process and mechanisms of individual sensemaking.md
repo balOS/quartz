@@ -8,7 +8,7 @@ year: 2014
 reference: 
 tags: source
 status: 
-alias: @zhangpengyiComprehensiveModelCognitive2014
+alias: "@zhangpengyiComprehensiveModelCognitive2014"
 ---
 
 

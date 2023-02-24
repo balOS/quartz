@@ -8,7 +8,7 @@ year: 2004
 reference: 
 tags: source
 status: 
-alias: @marshallExploringRelationshipPersonal2004
+alias: "@marshallExploringRelationshipPersonal2004"
 ---
 - #[[references]]
     - Title: Exploring the Relationship Between Personal and Public Annotations

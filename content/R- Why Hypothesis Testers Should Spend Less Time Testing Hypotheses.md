@@ -8,7 +8,7 @@ year: 2020
 reference: 
 tags: source
 status: 
-alias: @scheelWhyHypothesisTesters2020
+alias: "@scheelWhyHypothesisTesters2020"
 ---
 
 -   #[[references]]

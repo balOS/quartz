@@ -8,7 +8,7 @@ year:
 reference: 
 tags: source
 status: 
-alias: @clarkMicropublicationsSemanticModel2014
+alias: "@clarkMicropublicationsSemanticModel2014"
 ---
 
 ### Micropublications: a semantic model

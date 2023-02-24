@@ -8,7 +8,7 @@ year:
 reference: 
 tags: source
 status: 
-alias: @luttersBoundaryObjectsCollaborative2007
+alias: "@luttersBoundaryObjectsCollaborative2007"
 ---
 - #references
     - Title: Beyond Boundary Objects: Collaborative Reuse in Aircraft Technical Support

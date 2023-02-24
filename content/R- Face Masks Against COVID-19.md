@@ -8,7 +8,7 @@ year: 2020
 reference: 
 tags: source
 status: 
-alias: @howardFaceMasksCOVID192020
+alias: "@howardFaceMasksCOVID192020"
 ---
 
 -   #[[references]]

@@ -8,7 +8,7 @@ year: 2011
 reference: 
 tags: source
 status: 
-alias: @tashmanLiquidTextFlexibleMultitouch2011
+alias: "@tashmanLiquidTextFlexibleMultitouch2011"
 ---
 
 

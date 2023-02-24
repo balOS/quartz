@@ -6,3 +6,5 @@ content/.obsidian
 assets/indices/linkIndex.json
 assets/indices/contentIndex.json
 content/private
+TypeScript/node_modules
+TypeScript/*.js

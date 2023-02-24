@@ -8,7 +8,7 @@ year: 1999
 reference: 
 tags: source
 status: 
-alias: @shipmanFormalityConsideredHarmful1999
+alias: "@shipmanFormalityConsideredHarmful1999"
 ---
 
 - #references

@@ -8,7 +8,7 @@ year:
 reference: 
 tags: source
 status: 
-alias: @kuhnGenuineSemanticPublishing2017
+alias: "@kuhnGenuineSemanticPublishing2017"
 ---
 
 #### Core Questions

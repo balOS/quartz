@@ -8,7 +8,7 @@ year: 1983
 reference: 
 tags: source
 status: 
-alias: @strikeTypesSynthesisTheir1983
+alias: "@strikeTypesSynthesisTheir1983"
 ---
 
 

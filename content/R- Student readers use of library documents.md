@@ -8,7 +8,7 @@ year: 1998
 reference: 
 tags: source
 status: 
-alias: @oharaStudentReadersUse1998
+alias: "@oharaStudentReadersUse1998"
 ---
 
 - #references

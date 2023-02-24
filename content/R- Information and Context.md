@@ -8,7 +8,7 @@ year:
 reference: 
 tags: source
 status: 
-alias: @dourishInformationContextLessons1993
+alias: "@dourishInformationContextLessons1993"
 ---
 
 - #references

@@ -8,7 +8,7 @@ year: 2010
 reference: 
 tags: source
 status: 
-alias: @grothAnatomyNanopublication2010
+alias: "@grothAnatomyNanopublication2010"
 ---
 
 - #references

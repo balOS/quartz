@@ -8,7 +8,7 @@ year:
 reference: 
 tags: source
 status: 
-alias: @knoblichConstraintRelaxationChunk1999
+alias: "@knoblichConstraintRelaxationChunk1999"
 ---
 - #[[references]]
     - Title: Constraint relaxation and chunk decomposition in insight problem solving

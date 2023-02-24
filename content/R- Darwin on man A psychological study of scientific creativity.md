@@ -8,7 +8,7 @@ year: 1974
 reference: 
 tags: source
 status: 
-alias: @gruberDarwinManPsychological1974
+alias: "@gruberDarwinManPsychological1974"
 ---
 
 -   Title: Darwin on man: A psychological study of scientific creativity

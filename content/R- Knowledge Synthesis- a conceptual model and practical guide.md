@@ -8,7 +8,7 @@ year: 2020
 reference: "https://oasislab.pubpub.org/pub/54t0y9mk/release/2"
 tags: source
 status: 
-alias: @chanKnowledgeSynthesisConceptual2020
+alias: "@chanKnowledgeSynthesisConceptual2020"
 ---
 
 

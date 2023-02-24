@@ -8,7 +8,7 @@ year: 2013
 reference: 
 tags: source
 status: 
-alias: @halfordDigitalFuturesSociological2013
+alias: "@halfordDigitalFuturesSociological2013"
 ---
 
 - #references

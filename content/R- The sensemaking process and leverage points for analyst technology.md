@@ -8,7 +8,7 @@ year: 2005
 reference: 
 tags: source
 status: 
-alias: @pirolliSensemakingProcessLeverage2005
+alias: "@pirolliSensemakingProcessLeverage2005"
 ---
 
 -   #[[references]]

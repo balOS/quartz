@@ -8,7 +8,7 @@ year: 1973
 reference: 
 tags: source
 status: 
-alias: @chaseMindEyeChess1973
+alias: "@chaseMindEyeChess1973"
 ---
 
 

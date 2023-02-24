@@ -8,7 +8,7 @@ year: 2011
 reference: 
 tags: source
 status: 
-alias: @alvessonGeneratingResearchQuestions2011
+alias: "@alvessonGeneratingResearchQuestions2011"
 ---
 
 -   #[[references]]

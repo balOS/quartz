@@ -8,7 +8,7 @@ year: 2013
 reference: 
 tags: source
 status: 
-alias: @mccrickardAchievingBothCreativity2013
+alias: "@mccrickardAchievingBothCreativity2013"
 ---
 -   Metadata
     -   Title: Achieving Both Creativity and Rationale: Reuse in Design with Images and Claims

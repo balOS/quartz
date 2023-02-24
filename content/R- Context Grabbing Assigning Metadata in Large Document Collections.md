@@ -8,7 +8,7 @@ year:
 reference: 
 tags: source
 status: 
-alias: @hinrichsContextGrabbingAssigning2005
+alias: "@hinrichsContextGrabbingAssigning2005"
 ---
 
 - #references

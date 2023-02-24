@@ -8,7 +8,7 @@ year: 2017
 reference: 
 tags: source
 status: 
-alias: @jonasCouldNeuroscientistUnderstand2017
+alias: "@jonasCouldNeuroscientistUnderstand2017"
 ---
 
 -   #[[references]]

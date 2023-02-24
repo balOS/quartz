@@ -8,7 +8,7 @@ year: 1993
 reference: 
 tags: source
 status: 
-alias: @russellCostStructureSensemaking1993
+alias: "@russellCostStructureSensemaking1993"
 ---
 
 - #References

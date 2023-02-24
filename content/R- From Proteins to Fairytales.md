@@ -8,7 +8,7 @@ year: 2010
 reference: 
 tags: source
 status: 
-alias: @deWaardProteinsFairytalesDirections2010
+alias: "@deWaardProteinsFairytalesDirections2010"
 ---
 - #references
     - Title: From Proteins to Fairytales: Directions in Semantic Publishing

@@ -8,7 +8,7 @@ year: 2000
 reference: 
 tags: source
 status: 
-alias: @bowkerSortingThingsOut2000
+alias: "@bowkerSortingThingsOut2000"
 ---
 
 -   Title: Sorting Things Out: Classification and Its Consequences
