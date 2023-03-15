@@ -1,7 +1,8 @@
 ---
 title: C- Reviewing past notes in the process of creating new notes is a key user behavior to promote synthesis
 enableToc: false
-tags: claim
+tags:
+- claim
 ---
 From [[P- Gordon Brander]]'s [newsletter](https://subconscious.substack.com/p/knowledge-gardening-is-recursive?utm_source=url):
 

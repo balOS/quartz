@@ -1,7 +1,8 @@
 ---
 title: C- A structural editor could allow people to make and edit data structures
 enableToc: false
-tags: claim
+tags:
+- claim
 ---
 
 Authored By:: [[P- Rob Haisfield]]
