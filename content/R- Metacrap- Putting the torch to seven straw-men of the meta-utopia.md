@@ -1,7 +1,8 @@
 ---
 title: R- Metacrap- Putting the torch to seven straw-men of the meta-utopia
 enableToc: false
-tags: source
+tags:
+- resource
 ---
 *This is a direct clip from Cory Doctorow's blog, [see here](https://people.well.com/user/doctorow/metacrap.htm). My commentary is included under headings.*
 

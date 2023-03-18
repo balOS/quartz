@@ -3,7 +3,8 @@ title: R- What is a Distributed Knowledge Graph
 enableToc: false
 creation date: "2021-04-14 13:57"
 modification date: "Wednesday 14th April 2021 13:57:41"
-tags: source
+tags:
+- resource
 author: Joel Gustafson
 year: 2020
 reference: "https://notes.knowledgefutures.org/pub/belji1gd/release/2"

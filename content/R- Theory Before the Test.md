@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Iris van Rooij, Giosuè Baggio
 year: 2021
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@vanrooijTheoryTestHow2021"
 ---

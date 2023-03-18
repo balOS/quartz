@@ -1,7 +1,8 @@
 ---
 title: Q- What is an interface for going up and down the ladder of abstraction
 enableToc: false
-tags: question
+tags:
+- question
 ---
 Authored By:: [[P- Rob Haisfield]]
 

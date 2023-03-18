@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Adrienne Alton-Lee
 year: 1998
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@altonleeTroubleshooterChecklistProspective1998"
 ---

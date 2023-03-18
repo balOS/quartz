@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Eve Marder
 year: 2020
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@marderTheoreticalMusings2020"
 ---

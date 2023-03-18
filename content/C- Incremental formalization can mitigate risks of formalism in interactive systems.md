@@ -1,7 +1,8 @@
 ---
 title: C- Incremental formalization can mitigate risks of formalism in interactive systems
 enableToc: false
-tags: claim
+tags:
+- claim
 ---
 - #[[🌲 zettels]]
     - Tags:  #[[D/Synthesis Infrastructure]] #[[incremental formalization]] #compositionality

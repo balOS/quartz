@@ -1,7 +1,8 @@
 ---
 title: I- searchable blobs as unnamed groups enable unnamed formalization
 enableToc: false
-tags: idea
+tags:
+- idea
 ---
 Authored By:: [[P- Brendan Langen]], [[P- Joel Chan]]
 

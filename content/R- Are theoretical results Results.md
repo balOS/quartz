@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Raymond E Goldstein
 year: 2018
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@goldsteinAreTheoreticalResults2018"
 ---

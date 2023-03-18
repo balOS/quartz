@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Allyson Holbrook
 year: 2004
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@holbrookInvestigatingPhDThesis2004"
 ---

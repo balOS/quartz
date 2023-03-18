@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: "[Daniel M. Russell], [Mark J. Stefik], [Peter Pirolli], and [Stuart K. Card]"
 year: 1993
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@russellCostStructureSensemaking1993"
 ---

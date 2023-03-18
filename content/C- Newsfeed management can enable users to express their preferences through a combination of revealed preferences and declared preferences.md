@@ -1,7 +1,8 @@
 ---
 title: C- Newsfeed management can enable users to express their preferences through a combination of revealed preferences and declared preferences
 enableToc: false
-tags: claim
+tags:
+- claim
 ---
 
 Authored By:: [[P- Rob Haisfield]]

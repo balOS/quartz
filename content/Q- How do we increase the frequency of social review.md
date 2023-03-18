@@ -1,7 +1,8 @@
 ---
 title: Q- How do we increase the frequency of social review
 enableToc: false
-tags: question
+tags:
+- question
 ---
 Authored By:: [[P- Brendan Langen]], [[P- Rob Haisfield]]
 

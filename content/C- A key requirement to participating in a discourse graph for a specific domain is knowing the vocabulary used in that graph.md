@@ -1,7 +1,8 @@
 ---
 title: C- A key requirement to participating in a discourse graph for a specific domain is knowing the vocabulary used in that graph
 enableToc: false
-tags: claim
+tags:
+- claim
 ---
 
 Authored By:: [[P- Rob Haisfield]]

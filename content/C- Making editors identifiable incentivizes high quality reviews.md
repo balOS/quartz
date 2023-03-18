@@ -1,7 +1,8 @@
 ---
 title: C- Making editors identifiable incentivizes high quality reviews
 enableToc: false
-tags: claim
+tags:
+- claim
 ---
 Authored By:: [[P- Brendan Langen]]
 

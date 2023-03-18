@@ -4,7 +4,8 @@ enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@newellYouCanPlay1973"
 ---

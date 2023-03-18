@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Craig Tashman, W. Keith Edwards
 year: 2011
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@tashmanLiquidTextFlexibleMultitouch2011"
 ---

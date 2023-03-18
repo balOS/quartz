@@ -1,7 +1,8 @@
 ---
 title: I- A DSL for a discourse graph with information entry, visualization, and retrieval
 enableToc: false
-tags: idea
+tags:
+- idea
 ---
 Authored By:: [[P- Rob Haisfield]]
 

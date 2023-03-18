@@ -1,7 +1,8 @@
 ---
 title: I- Populate the related items section through a search term
 enableToc: false
-tags: idea
+tags:
+- idea
 ---
 
 Authored By:: [[P- Rob Haisfield]], [[P- Brendan Langen]]

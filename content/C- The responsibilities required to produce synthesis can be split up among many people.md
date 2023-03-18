@@ -1,7 +1,8 @@
 ---
 title: C- The responsibilities required to produce synthesis can be split up among many people
 enableToc: false
-tags: claim
+tags:
+- claim
 ---
 Authored By:: [[P- Rob Haisfield]], [[P- Brendan Langen]]
 

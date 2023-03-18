@@ -1,7 +1,8 @@
 ---
 title: C- Programmable text interfaces are the future
 enableToc: true
-tags: claim
+tags:
+- claim
 ---
 Authored By:: [[P- Rob Haisfield]]            
 

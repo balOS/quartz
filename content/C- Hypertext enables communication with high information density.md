@@ -1,7 +1,8 @@
 ---
 title: C- Hypertext enables communication with high information density
 enableToc: false
-tags: claim
+tags:
+- claim
 ---
 
 Authored By:: [[P- Rob Haisfield]]

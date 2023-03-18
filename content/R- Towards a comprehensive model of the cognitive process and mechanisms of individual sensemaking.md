@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Zhang Pengyi, Soergel Dagobert
 year: 2014
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@zhangpengyiComprehensiveModelCognitive2014"
 ---

@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Susan Leigh Star, James R. Griesemer
 year: 1989
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@starInstitutionalEcologyTranslations1989"
 ---

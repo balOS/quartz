@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Barbara E. Lovitts
 year: 2007
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@lovittsMakingImplicitExplicit2007"
 ---

@@ -41,7 +41,7 @@ columns:
       isInline: true
       task_hide_completed: true
   tags:
-    input: text
+- input: text
     accessorKey: tags
     key: tags
     label: tags

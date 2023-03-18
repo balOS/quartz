@@ -1,7 +1,8 @@
 ---
 title: R- Collaborative information synthesis
 enableToc: false
-tags: source
+tags:
+- resource
 ---
 Authored By:: [[P- Joel Chan]]
 

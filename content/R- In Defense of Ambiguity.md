@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Patrick J Hayes, Harry Halpin
 year: 2008
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@hayes2008defense"
 ---

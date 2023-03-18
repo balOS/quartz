@@ -1,7 +1,8 @@
 ---
 title: C- A DSL allows people to expand their use cases far beyond the imagination of the designer
 enableToc: false
-tags: claim
+tags:
+- claim
 ---
 [[C- A DSL allows for abstraction]]. 
 

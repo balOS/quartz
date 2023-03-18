@@ -16,15 +16,15 @@ The goal of this research project is to find data structures and interfaces that
 Some suggested starting points:
 
 - To jump straight into the ideas:
-	- [[Q- How might we navigate the structure now or later tradeoffs]]
-	- [[C- Designing for ambient review is a rich opportunity space]]
-	- [[I- A DSL for a discourse graph with information entry, visualization, and retrieval]]
-	- [[I- Search as a primitive]]
+  - [[Q- How might we navigate the structure now or later tradeoffs]]
+  - [[C- Designing for ambient review is a rich opportunity space]]
+  - [[I- A DSL for a discourse graph with information entry, visualization, and retrieval]]
+  - [[I- Search as a primitive]]
 - For broader context about what we are doing and why:
-	- [[Q- What is a decentralized discourse graph]]
-	- [[C- Discourse graphs could significantly accelerate human synthesis work]]
-	- [[C- Synthesis is hard to do with people who don’t share context with you]]
-	- [[Research Grant Application]]
+  - [[Q- What is a decentralized discourse graph]]
+  - [[C- Discourse graphs could significantly accelerate human synthesis work]]
+  - [[C- Synthesis is hard to do with people who don’t share context with you]]
+  - [[Research Grant Application]]
 
 Some specific how-tos:
 

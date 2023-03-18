@@ -1,7 +1,8 @@
 ---
 title: C- People naturally try to enact typed distinctions in their notes
 enableToc: false
-tags: claim
+tags:
+- claim
 ---
 Authored by:: [[P- Joel Chan]]
 

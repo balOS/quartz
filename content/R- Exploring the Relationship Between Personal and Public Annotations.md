@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Catherine C. Marshall, A. J. Bernheim Brush
 year: 2004
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@marshallExploringRelationshipPersonal2004"
 ---

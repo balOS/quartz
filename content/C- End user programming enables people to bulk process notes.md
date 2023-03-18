@@ -1,7 +1,8 @@
 ---
 title: C- End user programming enables people to bulk process notes
 enableToc: false
-tags: claim
+tags:
+- claim
 ---
 
 Authored By:: [[P- Rob Haisfield]]

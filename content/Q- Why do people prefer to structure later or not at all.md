@@ -1,6 +1,7 @@
 ---
 title: Q- Why do people prefer to structure later or not at all
-tags: question
+tags:
+- question
 ---
 This page can be thought of as a contextual index page - so point to other pages while discussing how that's relevant to the common forms of structure people add to their notes. This is a hypertext hub.
 

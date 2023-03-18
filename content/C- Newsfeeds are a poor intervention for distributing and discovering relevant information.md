@@ -1,7 +1,8 @@
 ---
 title: C- Newsfeeds are a poor intervention for distributing and discovering relevant information
 enableToc: false
-tags: claim
+tags:
+- claim
 ---
 Authored By:: [[P- Rob Haisfield]]
 

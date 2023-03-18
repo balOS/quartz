@@ -1,7 +1,8 @@
 ---
 title: I- Replace the backlinks section of a page with a related items section
 enableToc: false
-tags: idea
+tags:
+- idea
 ---
 Authored By:: [[P- Rob Haisfield]], [[P- Brendan Langen]]
 

@@ -1,6 +1,8 @@
 {{ $content := .Content }}
 {{ $raw := .RawContent }}
 {{ $page := .Page }}
+{{ $tags := .Params.tags }}
+
 
 {{/* Escape slashes for Latex to fix line breaks */}}
 {{$latex := findRE "\\$\\$([^\\$]+)\\$\\$" $content}}
@@ -29,7 +31,10 @@
       {{$path := index $split 0 | relURL}}
       {{$reference := split $path "#"}}
       {{$title := index $reference 0}}
+      <!-- $display is hyperlink display text -->
+      <!-- use alias, else title -->
       {{$display := default $title (index $split 1)}}
+
       {{$img := printf "<img src=\"%s\" title=\"%s\">" $path $display}}
       {{$content = replace $content . $img}}
     {{else}}
@@ -42,8 +47,12 @@
       {{$block = strings.TrimRight "/" (cond (eq $block "") $block (printf "#%s" $block))}}
       {{$href := strings.TrimRight "/" ($page.GetPage $title).RelPermalink}}
       {{$display := default $title (index $split 1)}}
+            <!-- remove subfolder from title -->
+      {{$display := index (last 1 (split $display "/")) 0}}
+      <!-- remove the first two characters from title, based on whether it starts with "C- ", "Q- ", "R- " -->
+      {{$display := replaceRE "^[A-Z]- " "" $display}}
       {{if not $href}}
-        {{$link := printf "<a class=\"internal-link broken\">%s</a>" $display}}
+        {{$link := printf "<a class=\"internal-link broken\" data-src=\"/%s\">%s</a>" $title $display}}
         {{$content = replace $content . $link}}
       {{else}}
         {{$fullhref := printf "%s%s" $href $block }}

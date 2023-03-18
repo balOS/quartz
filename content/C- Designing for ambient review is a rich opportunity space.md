@@ -1,7 +1,8 @@
 ---
 title: C- Designing for ambient review is a rich opportunity space
 enableToc: false
-tags: claim
+tags:
+- claim
 ---
 If [[People don’t intentionally review old notes]] but still want old notes to resurface, we might ask how to display that information in an ambient manner, in contrast to traditional approaches that require individuals to explicitly choose to review old notes.
 

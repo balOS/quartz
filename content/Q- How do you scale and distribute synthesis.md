@@ -1,7 +1,8 @@
 ---
 title: Q- How do you scale and distribute synthesis
 enableToc: false
-tags: question
+tags:
+- question
 ---
 A common assumption from builders is that the answer is to focus on individual synthesis with the expectation that distributed synthesis will happen out of band. [[Q- How do people come to agree on queryable schemas]] is an infamously hard problem, especially when balanced against the fact that [[Q- Why do people prefer to structure later or not at all|many experts prefer to structure later or not at all]], and that the limited amount of structure people put into their own notes will likely be [[Q- How do we enable many users with their own idiosyncratic structure to converge in one discourse graph|specialized for their own use case]]. We were surprised to find in our research that only a couple of our participants claimed that they synthesized with others at all, for reasons discussed in [[C- Synthesis is hard to do with people who don’t share context with you]].
 

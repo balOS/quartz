@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Kenton O'Hara, Fiona Smith, William Newman, Abigail Sellen
 year: 1998
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@oharaStudentReadersUse1998"
 ---

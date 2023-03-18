@@ -6,7 +6,15 @@
   --lt-colours-gray: var(--outlinegray) !important;
 }
 
-h1, h2, h3, h4, h5, h6, ol, ul, thead {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ol,
+ul,
+thead {
   font-family: Inter;
   color: var(--dark);
   font-weight: revert;
@@ -24,11 +32,12 @@ h1, h2, h3, h4, h5, h6, ol, ul, thead {
   opacity: 0.3;
   transition: opacity 0.3s ease;
   color: var(--secondary);
-
 }
 
-p, ul, text {
-  font-family: 'Source Sans Pro', sans-serif;
+p,
+ul,
+text {
+  font-family: "Source Sans Pro", sans-serif;
   color: var(--gray);
   fill: var(--gray);
   font-weight: revert;
@@ -50,7 +59,7 @@ p, ul, text {
 }
 
 .mainTOC details[open] summary {
-    cursor: zoom-out;
+  cursor: zoom-out;
 }
 
 #TableOfContents > ol {
@@ -74,7 +83,8 @@ p, ul, text {
     content: counter(section) "  ";
   }
 
-  & > li::marker, & > li > ol > li::marker {
+  & > li::marker,
+  & > li > ol > li::marker {
     font-family: Source Sans Pro;
     font-weight: 700;
   }
@@ -90,16 +100,18 @@ img {
   margin: 1em 0;
 }
 
-p>img+em {
+p > img + em {
   display: block;
   transform: translateY(-1em);
 }
 
 sup {
-  line-height: 0
+  line-height: 0;
 }
 
-p, tbody, li {
+p,
+tbody,
+li {
   font-family: Source Sans Pro;
   color: var(--gray);
   line-height: 1.5em;
@@ -120,7 +132,8 @@ table {
   padding: 1.5em;
 }
 
-td, th {
+td,
+th {
   padding: 0.1em 0.5em;
 }
 
@@ -211,11 +224,11 @@ article {
 
       &.broken {
         opacity: 0.5;
-        background-color: transparent; 
+        background-color: transparent;
       }
     }
   }
-  
+
   & p {
     overflow-wrap: anywhere;
   }
@@ -224,7 +237,7 @@ article {
 a[target] {
   background-color: transparentize(#8f9fa9, 0.85);
   font-style: italic;
-    }
+}
 
 .backlinks a {
   font-weight: 600;
@@ -250,14 +263,14 @@ a {
 }
 
 pre {
-  font-family: 'Fira Code';
+  font-family: "Fira Code";
   padding: 0.75em;
   border-radius: 3px;
   overflow-x: scroll;
 }
 
 code {
-  font-family: 'Fira Code';
+  font-family: "Fira Code";
   font-size: 0.85em;
   padding: 0.15em 0.3em;
   border-radius: 5px;
@@ -268,7 +281,11 @@ html {
   scroll-behavior: smooth;
 
   &:lang(ar) {
-    & p, & h1, & h2, & h3, article {
+    & p,
+    & h1,
+    & h2,
+    & h3,
+    article {
       direction: rtl;
       text-align: right;
     }
@@ -286,8 +303,12 @@ body {
 }
 
 @keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 footer {
@@ -295,7 +316,7 @@ footer {
   text-align: center;
   & ul {
     padding-left: 0;
-  } 
+  }
 }
 
 hr {
@@ -338,7 +359,7 @@ hr {
         margin: 0.5em 0;
         padding: 0.25em 1em;
         border: var(--outlinegray) 1px solid;
-        border-radius: 5px
+        border-radius: 5px;
       }
     }
   }
@@ -350,11 +371,9 @@ hr {
 
     & > svg {
       margin-bottom: -5px;
-
     }
   }
 }
-
 
 .centered {
   margin-top: 30vh;
@@ -363,7 +382,6 @@ hr {
 article > h1 {
   font-size: 2em;
 }
-
 
 header {
   display: flex;
@@ -465,7 +483,8 @@ header {
         background: var(--light);
         outline: none;
 
-        &:hover, &:focus {
+        &:hover,
+        &:focus {
           background: rgba(180, 180, 180, 0.15);
         }
 
@@ -480,7 +499,8 @@ header {
           border-bottom: 1px solid var(--outlinegray);
         }
 
-        & > h3, & > p {
+        & > h3,
+        & > p {
           margin: 0;
         }
       }
@@ -489,7 +509,7 @@ header {
 }
 
 .search-highlight {
-  background-color: transparentize(#7970A9, 0.75);
+  background-color: transparentize(#7970a9, 0.75);
   padding: 0.05em 0.2em;
   border-radius: 3px;
 }
@@ -548,7 +568,7 @@ header {
   transition: opacity 0.2s ease, transform 0.2s ease;
   user-select: none;
   overflow-wrap: anywhere;
-  box-shadow: 6px 6px 36px 0px rgba(0,0,0,0.25);
+  box-shadow: 6px 6px 36px 0px rgba(0, 0, 0, 0.25);
 
   @media all and (max-width: 600px) {
     display: none !important;
@@ -581,8 +601,6 @@ header {
   }
 }
 
-
-
 #contact_buttons ul {
   list-style-type: none;
 
@@ -597,4 +615,97 @@ header {
 
 #commento.commento-root * {
   color: #ced4da;
+}
+
+mark {
+  background-color: var(--highlighted);
+  color: var(--gray);
+}
+
+[data-src^="/C-"] {
+  color: var(--claim);
+}
+
+[data-src^="/Q-"] {
+  color: var(--question);
+}
+
+[data-src^="/I-"] {
+  color: var(--idea);
+}
+
+[data-src^="/R-"] {
+  color: var(--resource);
+}
+
+[data-src^="@"] {
+  color: var(--resource);
+}
+
+[data-src^="/P-"] {
+  color: var(--person);
+}
+
+a.root-title {
+  color: var(--root-title);
+}
+
+[data-tag="#idea"] {
+  color: var(--idea);
+}
+
+[data-tag="#question"] {
+  color: var(--question);
+}
+
+[data-tag="#claim"] {
+  color: var(--claim);
+}
+
+[data-tag="#resource"] {
+  color: var(--resource);
+}
+
+[data-tag="#person"] {
+  color: var(--person);
+}
+
+[data-tag="#Idea"] {
+  color: var(--idea);
+}
+
+[data-tag="#Question"] {
+  color: var(--question);
+}
+
+[data-tag="#Claim"] {
+  color: var(--claim);
+}
+
+[data-tag="#Resource"] {
+  color: var(--resource);
+}
+
+[data-tag="#Person"] {
+  color: var(--person);
+}
+
+[data-title^="I-"] {
+  color: var(--idea);
+}
+
+[data-title^="Q-"] {
+  color: var(--question);
+}
+
+[data-title^="C-"] {
+  color: var(--claim);
+}
+
+[data-title^="R-"] {
+  color: var(--resource);
+}
+
+[data-title^="@"] {
+  color: var(--resource);
 }

@@ -1,7 +1,8 @@
 ---
 title: Q- How could a graph database structure be visualized and perceived by end users in a more helpful way than a large graph
 enableToc: false
-tags: question
+tags:
+- question
 ---
 [[P- Chris Granger]] claims that showing more than 15-20 nodes at a time makes a graph view unmanageable.
 

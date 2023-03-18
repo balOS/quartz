@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Simon Buckingham Shum, Enrico Motta, John Domingue
 year: 2000
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@shumScholOntoOntologybasedDigital2000"
 ---

@@ -1,7 +1,8 @@
 ---
 title: C- Synthesis is supported by Active Reading
 enableToc: false
-tags: claim
+tags:
+- claim
 ---
 ##### Work in Progress
 #WIP

@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Rich Hickey
 year: 2010
 reference: "https://www.youtube.com/watch?v=f84n5oFoZBc"
-tags: source
+tags:
+- resource
 status: 
 alias: 
 ---

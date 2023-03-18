@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Sheetal Bhurke, Andrew Cook, Anna Tallant, Amanda Young, Elaine Williams, James Raftery
 year: 2015
 reference: "https://pubmed.ncbi.nlm.nih.gov/26715462/"
-tags: source
+tags:
+- resource
 status: 
 alias: "@bhurkeUsingSystematicReviews2015"
 ---

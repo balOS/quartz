@@ -1,3 +1,4 @@
 ---
-tags: claim
+tags:
+- claim
 ---

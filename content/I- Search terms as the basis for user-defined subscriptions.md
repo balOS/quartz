@@ -3,7 +3,8 @@ title: I- Search terms as the basis for user-defined subscriptions
 enableToc: false
 aliases:
  - /I-Utilize-search-as-the-basis-for-user-defined-subscriptions/
-tags: idea
+tags:
+- idea
 ---
 
 Authored By:: [[P- Rob Haisfield]]

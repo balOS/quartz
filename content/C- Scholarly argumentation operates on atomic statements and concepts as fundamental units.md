@@ -1,7 +1,8 @@
 ---
 title: C- Scholarly argumentation operates on atomic statements and concepts as fundamental units
 enableToc: false
-tags: claim
+tags:
+- claim
 ---
 Ask [[P- Joel Chan]] lol I'll add a link to his website as soon as he publishes, as his discourse graph goes deep. The page in his graph has so many references, none of these links are going to work, but if you're interested in reading more you can look at his Zotero cite keys and that will help you with Google Scholar searches.
 

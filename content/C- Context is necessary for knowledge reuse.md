@@ -1,7 +1,8 @@
 ---
 title: C- Context is necessary for knowledge reuse
 enableToc: false
-tags: claim
+tags:
+- claim
 ---
 
 Authored By:: [[P- Joel Chan]]

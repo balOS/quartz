@@ -5,7 +5,8 @@ title: R- Organizing Knowledge with multi-level content
 author: Francis Miller
 year: 2018
 reference: "https://www.francismiller.com/organising_knowledge_paper.pdf"
-tags: source
+tags:
+- resource
 status: 
 alias: 
 ---

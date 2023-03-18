@@ -1,7 +1,8 @@
 ---
 title: C- End-user scripting enables creative workarounds
 enableToc: false
-tags: claim
+tags:
+- claim
 ---
 
 Authored By:: [[P- Rob Haisfield]]

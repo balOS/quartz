@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Paolo Ciccarese, Elizabeth Wu, Gwen Wong, Marco Ocana, June Kinoshita, Alan Ruttenberg, and Tim Clarke
 year: 2008
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@ciccareseSWANBiomedicalDiscourse2008"
 ---

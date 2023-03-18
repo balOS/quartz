@@ -1,7 +1,8 @@
 ---
 title: Q- How do you avoid the problems cited in Metacrap
 enableToc: false
-tags: question
+tags:
+- question
 ---
 [[R- Metacrap- Putting the torch to seven straw-men of the meta-utopia]]
 

@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Peter McMahan, James A. Evans
 year: 2018
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@mcmahanAmbiguityEngagement2018"
 ---

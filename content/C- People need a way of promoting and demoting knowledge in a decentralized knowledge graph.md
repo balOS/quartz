@@ -1,7 +1,8 @@
 ---
 title: C- People need a way of promoting and demoting knowledge in a decentralized knowledge graph
 enableToc: false
-tags: claim
+tags:
+- claim
 ---
 ##### Work in Progress
 #WIP

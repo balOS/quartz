@@ -1,4 +1,5 @@
 // Add your own CSS here!
+
 :root {
   --light: #eee8d5;
   --dark: #073642;
@@ -9,17 +10,32 @@
   --gray: #073642;
   --lightgray: #f0f0f0;
   --outlinegray: #dadada;
+  --million-progress-bar-color: var(--secondary);
+  --highlighted: #f5dfaf88;
+  --claim: #859900 !important;
+  --question: #2aa198 !important;
+  --idea: #d33682 !important;
+  --resource: #dc322f !important;
+  --person: #cb4b16 !important;
+  --root-title: #2aa198 !important;
 }
 
 [saved-theme="dark"] {
-  --light: #22212C !important;
-  --dark: #80FFEA !important;
-  --secondary: #8AFF80 !important;
+  --light: #22212c !important;
+  --dark: #80ffea !important;
+  --secondary: #ff80bf !important;
   --visited: #4a575e !important;
-  --tertiary: #8AFF80 !important;
-  --primary: #8AFF80 !important;
-  --gray: #F8F8F2 !important;
+  --tertiary: #ff80bf !important;
+  --primary: #ff80bf !important;
+  --gray: #f8f8f2 !important;
   --lightgray: #292633 !important;
   --outlinegray: #343434 !important;
-  --external: #80FFEA !important;
+  --external: #80ffea !important;
+  --highlighted: #574010;
+  --claim: #8aff80 !important;
+  --question: #80ffea !important;
+  --idea: #ffca80 !important;
+  --resource: #ff9580 !important;
+  --person: #ff9580 !important;
+  --root-title: #8aff80 !important;
 }

@@ -1,7 +1,8 @@
 ---
 title: C- Current tools do not support flexible exploration and refactoring of structures as they inevitably evolve
 enableToc: false
-tags: claim
+tags:
+- claim
 ---
 
 Authored By:: [[P- Rob Haisfield]]
@@ -23,7 +24,7 @@ Of course, done correctly, this structure can also enable easier reuse of past t
 If we want structure in our notes, our current tools require that we explicitly add it, in the form of names, placement or attributes. Certain sorts of structure are more rigid than others. For example, open ended metadata enabled email to be expanded into new use cases.
     - > You can add any headers you like. This makes the set of headers an open set, enabling new use-cases to evolve from the bottom-up. Want to record the title, author, and publish date of your books? Add some headers. Want to include a location? Add a header. 
 
-[[P- Gordon Brander]] [If headers did not exist, it would be necessary to invent them](https://subconscious.substack.com/p/if-headers-did-not-exist-it-would)
+    [[P- Gordon Brander]] [If headers did not exist, it would be necessary to invent them](https://subconscious.substack.com/p/if-headers-did-not-exist-it-would)
 
 Also, whether there are multiple paths to the data is important.  For example, someone using Roam might be more comfortable throwing many types of structure at the wall because they know if one system fails to resurface a note they likely have a fallback. In a file / folder system like Evernote, the folder location of a note matters much more because search is your only fallback if you don't remember which folder a note was in. For example, someone using Roam might be more comfortable throwing things at the wall because they know if one system fails to resurface something they might have a fallback
 

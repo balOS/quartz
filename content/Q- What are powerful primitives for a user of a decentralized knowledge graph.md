@@ -1,7 +1,8 @@
 ---
 title: Q- What are powerful primitives for a user of a decentralized knowledge graph
 enableToc: false
-tags: question
+tags:
+- question
 ---
 Authored By:: [[P- Rob Haisfield]]
 

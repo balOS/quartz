@@ -1,9 +1,0 @@
-{
-  "api_key": "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",
-  "engine": "text-davinci-002",
-  "max_tokens": 110,
-  "temperature": 0.7,
-  "frequency_penalty": 0.5,
-  "prompt": "",
-  "showStatusBar": true
-}

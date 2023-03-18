@@ -1,7 +1,8 @@
 ---
 title: C- Compression facilitates synthesis
 enableToc: false
-tags: claim
+tags:
+- claim
 ---
 Authored By:: [[P- Joel Chan]]
 

@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Anne M. Scheel, Leonid Tiokhin, Peder M. Isager, Daniël Lakens
 year: 2020
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@scheelWhyHypothesisTesters2020"
 ---

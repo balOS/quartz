@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Peter Pirolli, Stuart K. Card
 year: 2005
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@pirolliSensemakingProcessLeverage2005"
 ---

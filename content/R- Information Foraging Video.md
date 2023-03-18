@@ -1,7 +1,8 @@
 ---
 title: R- Information Foraging Video
 enableToc: false
-tags: source
+tags:
+- resource
 ---
 
 {{< youtube _IbTZBMHiY4 >}}

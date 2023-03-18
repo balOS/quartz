@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Padhraig S. Fleming, Jadbinder Seehra, Argy Polychronopoulou, Zbys Fedorowicz, Nikolaos Pandis
 year: 2013
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@flemingCochraneNonCochraneSystematic2013"
 ---

@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Packy McCormick
 year: 2021
 reference: "https://www.notboring.co/p/excel-never-dies"
-tags: source
+tags:
+- resource
 status: 
 alias: 
 ---

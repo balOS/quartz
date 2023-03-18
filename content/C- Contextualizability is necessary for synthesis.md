@@ -1,7 +1,8 @@
 ---
 title: C- Contextualizability is necessary for synthesis
 enableToc: false
-tags: claim
+tags:
+- claim
 ---
 
 Authored By:: 

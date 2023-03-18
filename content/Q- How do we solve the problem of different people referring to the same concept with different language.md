@@ -1,7 +1,8 @@
 ---
 title: Q- How do we solve the problem of different people referring to the same concept with different language
 enableToc: false
-tags: question
+tags:
+- question
 ---
 Authored By:: [[P- Rob Haisfield]]
 

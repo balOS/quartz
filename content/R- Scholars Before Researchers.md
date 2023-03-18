@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: David N. Boote, Penny Beile
 year: 2005
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@booteScholarsResearchersCentrality2005"
 ---

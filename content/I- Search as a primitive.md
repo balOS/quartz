@@ -3,7 +3,8 @@ title: I- Search as a primitive
 aliases:
  - /I-Search-as-a-part-of-the-primitive-design/
 enableToc: false
-tags: idea
+tags:
+- idea
 ---
 Authored By:: [[P- Rob Haisfield]]
 

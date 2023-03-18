@@ -1,7 +1,8 @@
 ---
 title: C- Breaking ideas down into component parts facilitates creative reinterpretation
 enableTOC: flase
-tags: claim
+tags:
+- claim
 ---
 Authored By:: [[P- Joel Chan]]
 

@@ -1,7 +1,8 @@
 ---
 title: Q- What is synthesis
 enableToc: false
-tags: question
+tags:
+- question
 ---
 
 Authored By:: [[P- Joel Chan]]

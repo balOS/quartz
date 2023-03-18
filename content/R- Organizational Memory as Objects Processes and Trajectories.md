@@ -1,7 +1,8 @@
 ---
 title: R- Organizational Memory as Objects Processes and Trajectories
 enableToc: false
-tags: source
+tags:
+- resource
 ---
 - #[References]
     - Title: Organizational Memory as Objects, Processes, and Trajectories: An Examination of Organizational Memory in Use

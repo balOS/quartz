@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: 
 year: 
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@kuhnGenuineSemanticPublishing2017"
 ---

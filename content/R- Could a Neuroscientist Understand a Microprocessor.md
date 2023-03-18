@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Eric Jonas, Konrad Paul Kording
 year: 2017
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@jonasCouldNeuroscientistUnderstand2017"
 ---

@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Kenneth Strike, George Posner
 year: 1983
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@strikeTypesSynthesisTheir1983"
 ---

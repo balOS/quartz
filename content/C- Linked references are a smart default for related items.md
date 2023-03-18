@@ -1,7 +1,8 @@
 ---
 title: C- Linked references are a smart default for related items
 enableToc: false
-tags: claim
+tags:
+- claim
 ---
 
 Authored By:: [[P- Rob Haisfield]]

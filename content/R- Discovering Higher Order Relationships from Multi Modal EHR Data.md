@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Sutanay Choudhury
 year: 2021
 reference: "https://www.youtube.com/watch?v=obxGAf_A0H8"
-tags: source
+tags:
+- resource
 status: 
 alias: 
 ---

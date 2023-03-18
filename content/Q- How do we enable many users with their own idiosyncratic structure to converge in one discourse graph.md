@@ -1,7 +1,8 @@
 ---
 title: Q- How do we enable many users with their own idiosyncratic structure to converge in one discourse graph
 enableToc: false
-tags: question
+tags:
+- question
 ---
 Authored by:: [[P- Rob Haisfield]]
 

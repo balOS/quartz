@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Danny Hillis, Samuel Klein, Travis Rich
 year: 2020
 reference: "https://notes.knowledgefutures.org/pub/underlay-short-intro/release/1"
-tags: source
+tags:
+- resource
 status: 
 alias: 
 ---

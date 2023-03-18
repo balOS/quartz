@@ -1,7 +1,8 @@
 ---
 title: Q- Can neural networks answer queries from natural language without a predefined schema
 enableToc: false
-tags: question
+tags:
+- question
 ---
 Author:: [[P- Brendan Langen]]
 

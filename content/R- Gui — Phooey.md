@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Max Van Kleek, Michael Bernstein, David Karger, MC Schraefel
 year: 2007
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@vankleekGuiPhooeyCase2007"
 ---

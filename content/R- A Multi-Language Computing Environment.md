@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Eric Schulte, Dan Davison, Thomas Dye, Carsten Dominik
 year: 2012
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@schulteMultiLanguageComputingEnvironment2012"
 ---

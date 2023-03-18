@@ -1,7 +1,8 @@
 ---
 title: Q- What community roles are necessary in a decentralized knowledge graph
 enableToc: false
-tags: question
+tags:
+- question
 ---
 Authored By:: [[P- Rob Haisfield]]
 

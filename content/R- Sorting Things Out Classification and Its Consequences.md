@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Geoffrey C Bowker, Susan Leigh Star
 year: 2000
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@bowkerSortingThingsOut2000"
 ---

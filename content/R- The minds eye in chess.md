@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: WG Chase
 year: 1973
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@chaseMindEyeChess1973"
 ---

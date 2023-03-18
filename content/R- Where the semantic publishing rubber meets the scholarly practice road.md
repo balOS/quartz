@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Joel Chan, Xin Qian, Katrina Fenlon, Wayne Lutters
 year: 2020
 reference: "https://github.com/sig-cm/JCDL-2020/blob/master/JCDL_Where_the_rubber_meets_the_road_2020-6-28-FINAL.pdf"
-tags: source
+tags:
+- resource
 status: 
 alias: 
 ---

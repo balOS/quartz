@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Frank Shipman, Catherine Marshall
 year: 1999
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@shipmanFormalityConsideredHarmful1999"
 ---

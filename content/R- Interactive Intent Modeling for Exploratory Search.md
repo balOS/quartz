@@ -1,7 +1,8 @@
 ---
 title: R- Interactive Intent Modeling for Exploratory Search
 enableToc: false
-tags: source
+tags:
+- resource
 ---
 author: T. Ruotsalo et al.
 Note Authored by:: [[P- Brendan Langen]]

@@ -1,7 +1,8 @@
 ---
 title: R- Sharing Knowledge and Expertise The CSCW View of Knowledge Management
 enableToc: false
-tags: source
+tags:
+- resource
 ---
 - #References
     - Title: Sharing Knowledge and Expertise: The CSCW View of Knowledge Management

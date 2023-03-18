@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Sanna Talja,  Hanni Maula
 year: 2003
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@taljaReasonsUseNon2003"
 ---

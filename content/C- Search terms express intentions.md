@@ -1,7 +1,8 @@
 ---
 title: C- Search terms express intentions
 enableToc: false
-tags: claim
+tags:
+- claim
 ---
 Authored By:: [[P- Rob Haisfield]]
 

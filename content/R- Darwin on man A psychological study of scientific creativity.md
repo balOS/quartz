@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Howard E. Gruber, Paul H. Barrett
 year: 1974
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@gruberDarwinManPsychological1974"
 ---

@@ -1,7 +1,8 @@
 ---
 title: I- Workspaces as a primitive
 enableToc: false
-tags: idea
+tags:
+- idea
 ---
 Authored By:: [[P- Rob Haisfield]]
 

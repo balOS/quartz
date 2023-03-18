@@ -1,7 +1,8 @@
 ---
 title: C- People are lazy
 enableToc: false
-tags: claim
+tags:
+- claim
 ---
 Authored By:: [[P- Rob Haisfield]]
 

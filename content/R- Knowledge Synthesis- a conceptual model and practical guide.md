@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: "[[P- Joel Chan.md|P- Joel Chan]]"
 year: 2020
 reference: "https://oasislab.pubpub.org/pub/54t0y9mk/release/2"
-tags: source
+tags:
+- resource
 status: 
 alias: "@chanKnowledgeSynthesisConceptual2020"
 ---

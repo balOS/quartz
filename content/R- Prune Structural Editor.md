@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Kent Beck, Thiago Harai
 year: 2015
 reference: "https://m.facebook.com/nt/screen/?params=%7B%22note_id%22%3A994298340981590%7D&path=%2Fnotes%2Fnote%2F&refsrc=deprecated&_rdr"
-tags: source
+tags:
+- resource
 status: 
 alias: 
 ---

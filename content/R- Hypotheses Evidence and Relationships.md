@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Anita de Waard, Simon Buckingham Shum, Annamaria Carusi, Jack Park, Matthias Samwald, Ágnes Sándor
 year: 2009
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@dewaardHypothesesEvidenceRelationships2009"
 ---

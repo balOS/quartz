@@ -5,7 +5,8 @@ last modified date: $=dv.current().file.mtime
 author: Philippa Markovics
 year: 
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: 
 ---

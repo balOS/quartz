@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Dave Randall, Rob Procter, Yuwei Lin, Meik Poschen, Wes Sharrock, Robert Stevens
 year: 2011
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@randallDistributedOntologyBuilding2011"
 ---

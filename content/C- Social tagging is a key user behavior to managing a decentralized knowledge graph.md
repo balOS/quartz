@@ -1,7 +1,8 @@
 ---
 title: C- Social tagging is a key user behavior to managing a decentralized knowledge graph
 enableToc: false
-tags: claim
+tags:
+- claim
 ---
 This is about diffusing the effort. In [[R- Information Foraging Video]], they present some research on social tagging. 
 

@@ -1,7 +1,8 @@
 ---
 title: C- Synthesis tools need to support incremental formalization
 enableToc: false
-tags: claim
+tags:
+- claim
 ---
 Authored By:: [[P- Joel Chan]]
 

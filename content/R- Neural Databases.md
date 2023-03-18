@@ -3,13 +3,14 @@ title: R- Neural Databases
 enableToc: false
 creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
-tags: source
+tags:
+- resource
 ---
 Paper author: "James Thorne, Majid Yazdani, Marzieh Saeidi, Fabrizio Silvestri, Sebastian Riedel, Alon Halevy"
 year: 2021
 reference: 
-tags: 
-status: #completed 
+tags:
+- status: #completed 
 alias: "@thorneNeuralDatabases2021"
 Notes author: [[P- Brendan Langen]]
 

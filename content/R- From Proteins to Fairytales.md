@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Anita de Waard
 year: 2010
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@deWaardProteinsFairytalesDirections2010"
 ---

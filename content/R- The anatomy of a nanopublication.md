@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Paul Groth, Andrew Gibson, Jan Velterop
 year: 2010
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@grothAnatomyNanopublication2010"
 ---

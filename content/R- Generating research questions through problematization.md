@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Mats Alvesson, Jörgen Sandberg
 year: 2011
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@alvessonGeneratingResearchQuestions2011"
 ---

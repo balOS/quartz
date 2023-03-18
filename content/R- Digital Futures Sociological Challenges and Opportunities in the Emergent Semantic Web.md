@@ -6,7 +6,8 @@ last modified date: $=dv.current().file.mtime
 author: Susan Halford, Catherine Pope, Mark Weal
 year: 2013
 reference: 
-tags: source
+tags:
+- resource
 status: 
 alias: "@halfordDigitalFuturesSociological2013"
 ---

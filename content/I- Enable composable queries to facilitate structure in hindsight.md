@@ -1,7 +1,8 @@
 ---
 title: I- Enable composable queries to facilitate structure in hindsight
 enableToc: false
-tags: idea
+tags:
+- idea
 ---
 Authored By:: [[P- Rob Haisfield]]
 

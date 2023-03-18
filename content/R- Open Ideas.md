@@ -1,7 +1,8 @@
 ---
 title: R- Open Ideas
 enableToc: false
-tags: source
+tags:
+- resource
 ---
 https://perama-v.github.io/ethereum/ideas
 ## Introduction

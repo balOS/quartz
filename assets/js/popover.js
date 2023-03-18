@@ -10,8 +10,8 @@ function initPopover(baseURL, useContextualBacklinks, renderLatex) {
   fetchData.then(({ content }) => {
     const links = [...document.getElementsByClassName("internal-link")]
     links
-      .filter(li => li.dataset.src || (li.dataset.idx && useContextualBacklinks))
-      .forEach(li => {
+      .filter((li) => li.dataset.src || (li.dataset.idx && useContextualBacklinks))
+      .forEach((li) => {
         var el
         if (li.dataset.ctx) {
           const linkDest = content[li.dataset.src]
@@ -22,11 +22,13 @@ function initPopover(baseURL, useContextualBacklinks, renderLatex) {
         } else {
           const linkDest = content[li.dataset.src.replace(/\/$/g, "").replace(basePath, "")]
           if (linkDest) {
+            const tagWithHashtags = linkDest.tags.map((tag) => `#${tag}`).join(" ")
             const popoverElement = `<div class="popover">
-    <h3>${linkDest.title}</h3>
-    <p>${removeMarkdown(linkDest.content).split(" ", 50).join(" ")}...</p>
-    <p class="meta">${new Date(linkDest.lastmodified).toLocaleDateString()}</p>
-</div>`
+            <h3 class="popoverTitle" data-title=${linkDest.title}>${linkDest.title}</h3>
+            <p class="linkTag" data-tag=${tagWithHashtags}>${tagWithHashtags}</p>
+            <p>${removeMarkdown(linkDest.content).split(" ", 50).join(" ")}...</p>
+            <p class="meta">${new Date(linkDest.lastmodified).toLocaleDateString()}</p>
+            </div>`
             el = htmlToElement(popoverElement)
           }
         }
@@ -36,12 +38,12 @@ function initPopover(baseURL, useContextualBacklinks, renderLatex) {
           if (renderLatex) {
             renderMathInElement(el, {
               delimiters: [
-                { left: '$$', right: '$$', display: false },
-                { left: '$', right: '$', display: false },
-                { left: '\\(', right: '\\)', display: false },
-                { left: '\\[', right: '\\]', display: false }
+                { left: "$$", right: "$$", display: false },
+                { left: "$", right: "$", display: false },
+                { left: "\\(", right: "\\)", display: false },
+                { left: "\\[", right: "\\]", display: false },
               ],
-              throwOnError: false
+              throwOnError: false,
             })
           }
           li.addEventListener("mouseover", () => {

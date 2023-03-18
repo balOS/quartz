@@ -1,6 +1,7 @@
 ---
 title: C- Multiplicity facilitates synthesis
-tags: claim
+tags:
+- claim
 aliases:
  - /C-Multiplicity-facilitates-synthesis/
 ---
