@@ -204,11 +204,11 @@ article {
       border-radius: 8px;
       border: var(--outlinegray) 1px solid;
       padding: 0.2em 0.5em;
-      &::before {
+      /* &::before {
         content: "#";
         margin-right: 0.3em;
         color: var(--gray);
-      }
+      }*/
     }
   }
 

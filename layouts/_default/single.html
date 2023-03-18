@@ -46,7 +46,7 @@
           {{ range (.GetTerms "tags") }}
           <li>
             <a href="{{ .Permalink }}" data-tag="#{{ .LinkTitle | humanize }}"
-              >{{ .LinkTitle | humanize }}</a
+              >#{{ .LinkTitle | humanize }}</a
             >
           </li>
           {{ end }}
