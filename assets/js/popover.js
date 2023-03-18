@@ -130,10 +130,17 @@ function initPopover(baseURL, useContextualBacklinks, renderLatex) {
           el = htmlToElement(popoverElement)
         } else {
           const linkDest = content[li.dataset.src.replace(/\/$/g, "").replace(basePath, "")]
+          // remove the starting three characters from the link title based on whether it starts with "C- ", "Q- ", "R- "
+          // const linkTitleTrimmed = linkDest.title.replace(/^C- |^Q- |^R- /, "")
+          // Rewrite the above as a ternary that doesn't replace characters if those starting characters aren't present
+
           if (linkDest) {
+            const linkTitleTrimmed = linkDest.title.match(/^(?:[A-Z]- |@)/)
+              ? linkDest.title.replace(/^(?:[A-Z]- |@)/, "")
+              : linkDest.title
             const tagWithHashtags = (linkDest.tags ?? []).map((tag) => `#${tag}`).join(" ")
             const popoverElement = `<div class="popover">
-            <h3 class="popoverTitle" data-title=${linkDest.title}>${linkDest.title}</h3>
+            <h3 class="popoverTitle" data-title=${linkDest.title}>${linkTitleTrimmed}</h3>
             <p class="linkTag" data-tag=${tagWithHashtags}>${tagWithHashtags}</p>
             <p>${removeMarkdown1(linkDest.content).split(" ", 50).join(" ")}...</p>
             <p class="meta">${new Date(linkDest.lastmodified).toLocaleDateString()}</p>

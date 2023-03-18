@@ -207,7 +207,7 @@ article {
       &::before {
         content: "#";
         margin-right: 0.3em;
-        color: var(--outlinegray);
+        color: var(--gray);
       }
     }
   }
@@ -236,6 +236,7 @@ article {
   }
 }
 
+/* external links */ 
 a[target] {
   /* background-color: transparentize(#8f9fa9, 0.85);*/
   font-style: italic;

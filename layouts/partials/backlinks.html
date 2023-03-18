@@ -17,8 +17,17 @@
       {{$l := printf "%s%s/" $host $lnk}}
       {{$l = cond (eq $l "//") "/" $l}}
       {{with (index $contentTable $lnk)}}
+      {{$untrimmedTitle := index . "title"}}
+      {{$trimmedTitle := replaceRE "^[A-Z]- " "" $untrimmedTitle}}
+      {{$tag := index . "tags"}}
+      {{$tag := index $tag 0}}
+      {{$tagOutput := ""}}
+      {{with $tag}}
+        {{$tagOutput = printf "#%s" .}}
+      {{end}}
       <li>
-        <a href="{{$l}}" data-ctx="{{$ctx}}" data-src="{{$lnk}}" class="internal-link">{{index (index . "title")}}</a>
+        <a href="{{$l}}" data-ctx="{{$ctx}}" data-src="{{$lnk}}" class="internal-link">{{$trimmedTitle}}</a>
+        <p class="linkTag" data-tag="{{$tagOutput}}">{{$tagOutput}}</p>
       </li>
       {{end}}
     {{- end -}}
