@@ -7,6 +7,8 @@ role:
 backlinks: length(file.inlinks) 
 twitter: "[@fortelabs](https://twitter.com/fortelabs)"
 website: "http://fortelabs.co"
+tags:
+- person
 ---
 
 

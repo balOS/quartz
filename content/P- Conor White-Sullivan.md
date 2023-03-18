@@ -5,7 +5,9 @@ context: "Co-founder, [[Roam Research]]"
 recommender: Rob
 role: Builder, User
 persona: Hacker, Virtuoso
-backlinks: length(file.inlinks) 
+
+tags:
+- person
 ---
 twitter: "[@conaw](https://twitter.com/Conaw)"
 website: "https://roamresearch.com/"

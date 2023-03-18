@@ -7,4 +7,6 @@ role: User
 backlinks: length(file.inlinks) 
 twitter: "@tomcritchlow"
 website: "https://tomcritchlow.com/"
+tags:
+- person
 ---

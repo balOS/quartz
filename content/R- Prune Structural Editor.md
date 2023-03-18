@@ -5,7 +5,6 @@ creation date: $=dv.current().file.ctime
 last modified date: $=dv.current().file.mtime
 author: Kent Beck, Thiago Harai
 year: 2015
-reference: "https://m.facebook.com/nt/screen/?params=%7B%22note_id%22%3A994298340981590%7D&path=%2Fnotes%2Fnote%2F&refsrc=deprecated&_rdr"
 tags:
 - resource
 status: 
@@ -13,10 +12,12 @@ alias:
 ---
 
 [[C- A structural editor can make a DSL approachable to end-users]] [[structural editor]]
+(post below because the original source is facebook)
+reference: https://m.facebook.com/nt/screen/?params=%7B%22note_id%22%3A994298340981590%7D&path=%2Fnotes%2Fnote%2F&refsrc=deprecated&_rdr
 
 Prune: A Code Editor that is Not a Text Editor
 
-Co-authored with [Thiago Hirai](https://www.facebook.com/thiago.hirai)
+Authored by Kent Beck and Thiago Hirai
 
 You want to change the tree structure of a program. You figure out what series of text editing operations, operations that manipulate a 2D grid of characters, are equivalent to the change in the tree you desire. What a waste of time and energy.
 

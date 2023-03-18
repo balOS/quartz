@@ -8,5 +8,7 @@ persona: Explorer
 backlinks: length(file.inlinks) 
 twitter: "[@AGWilsonn](https://twitter.com/AGWilsonn)"
 website:
+tags:
+- person
 ---
 

@@ -7,5 +7,7 @@ role: Builder, Researcher
 backlinks: length(file.inlinks) 
 twitter: "[@maxkriegers](https://twitter.com/maxkriegers)"
 website: "https://a9.io/"
+tags:
+- person
 ---
 

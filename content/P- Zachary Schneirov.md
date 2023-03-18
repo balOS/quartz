@@ -7,6 +7,8 @@ role:
 backlinks: length(file.inlinks) 
 twitter: "N/A"
 website: "https://notational.net/"
-email: "[Zachary Schneirov (scrod@notational.net)](mailto:Zachary%20Schneirov%3Cscrod@notational.net%3E)"
+email: "scrod@notational.net"
+tags:
+- person
 ---
 

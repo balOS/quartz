@@ -7,5 +7,7 @@ role: Builder, Researcher
 backlinks: length(file.inlinks) 
 twitter: "[@geoffreylitt](https://twitter.com/geoffreylitt)"
 website: "https://www.geoffreylitt.com/"
+tags:
+- person
 ---
 

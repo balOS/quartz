@@ -7,5 +7,7 @@ role:
 backlinks: length(file.inlinks) 
 twitter: "[@davidsholz](https://twitter.com/davidsholz?lang=en)"
 website: 
+tags:
+- person
 ---
 

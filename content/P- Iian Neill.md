@@ -7,5 +7,7 @@ role: Builder
 backlinks: length(file.inlinks) 
 twitter: "[@codexeditor](https://twitter.com/codexeditor?lang=en)"
 website:
+tags:
+- person
 ---
 

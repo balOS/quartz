@@ -7,5 +7,7 @@ role:
 backlinks: length(file.inlinks) 
 twitter: "[@anthilemoon](https://twitter.com/anthilemoon)"
 website: "https://newsletter.nesslabs.com/"
+tags:
+- person
 ---
 

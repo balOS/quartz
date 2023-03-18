@@ -5,7 +5,8 @@ context: "Co-founder, Kosmik"
 recommender: Rob
 role: Builder
 persona: Hacker
-backlinks: length(file.inlinks) 
+tags:
+- person
 ---
 twitter: "[@Paul_Rony](https://twitter.com/Paul_Rony)"
 website: https://kosmik.app/

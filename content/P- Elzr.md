@@ -8,6 +8,8 @@ backlinks: length(file.inlinks)
 twitter: "[@elzr](https://twitter.com/elzr)"
 website: "https://elzr.com/about/"
 alias: "Eli Parra"
+tags:
+- person
 ---
 
 https://twitter.com/elzr/status/1378821500246065154
