@@ -1,3 +1,5 @@
+// import { removeMarkdown, highlight } from "./search.js"
+
 function htmlToElement(html) {
   const template = document.createElement("template")
   html = html.trim()
