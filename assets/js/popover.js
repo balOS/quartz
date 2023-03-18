@@ -131,7 +131,7 @@ function initPopover(baseURL, useContextualBacklinks, renderLatex) {
         } else {
           const linkDest = content[li.dataset.src.replace(/\/$/g, "").replace(basePath, "")]
           if (linkDest) {
-            const tagWithHashtags = linkDest.tags.map((tag) => `#${tag}`).join(" ")
+            const tagWithHashtags = (linkDest.tags ?? []).map((tag) => `#${tag}`).join(" ")
             const popoverElement = `<div class="popover">
             <h3 class="popoverTitle" data-title=${linkDest.title}>${linkDest.title}</h3>
             <p class="linkTag" data-tag=${tagWithHashtags}>${tagWithHashtags}</p>
