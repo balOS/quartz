@@ -1,3 +1,9 @@
+{{ $linkTitleTrimmed := .Title }}
+{{ with .Title }}
+  {{ $linkTitleTrimmed = . | replaceRE "^(?:[A-Z]- |@)" "" }}
+{{ end }}
+
+
 <!DOCTYPE html>
 <html lang="{{ .Lang }}">
   {{ partial "head.html" . }}
@@ -30,7 +36,7 @@
       </header>
       <article>
         {{if .Title}}
-        <h1 data-title="{{ .Title }}">{{ .Title }}</h1>
+        <h1 data-title="{{ .Title }}">{{ $linkTitleTrimmed }}</h1>
         {{end}}
         <p class="meta">
           Last updated {{if ne .Date .Lastmod}}{{ .Lastmod.Format "January 2, 2006"
