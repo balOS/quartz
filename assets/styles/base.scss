@@ -216,7 +216,9 @@ article {
     font-family: Source Sans Pro;
     font-weight: 600;
     &.internal-link {
-      text-decoration: none;
+      text-decoration: underline;
+      text-decoration-thickness: 0.5px;
+      text-underline-offset: 5px;
       /* background-color: transparentize(#8f9fa9, 0.85); */
       padding: 0 0.1em;
       margin: auto -0.1em;
@@ -235,8 +237,13 @@ article {
 }
 
 a[target] {
-  background-color: transparentize(#8f9fa9, 0.85);
+  /* background-color: transparentize(#8f9fa9, 0.85);*/
   font-style: italic;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-decoration-thickness: 0.5px;
+  text-underline-offset: 5px;
+  color: var(--external);
 }
 
 .backlinks a {
@@ -258,7 +265,8 @@ a {
   color: var(--secondary);
 
   &:hover {
-    color: var(--tertiary) !important;
+    /* color: var(--tertiary) !important; */
+    background-color: transparentize(#8f9fa9, 0.85);
   }
 }
 
@@ -615,6 +623,14 @@ header {
 
 #commento.commento-root * {
   color: #ced4da;
+}
+
+[id="page-title"] {
+  color: var(--claim);
+}
+
+#page-title a {
+  color: var(--gray);
 }
 
 mark {

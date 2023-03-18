@@ -6,7 +6,7 @@ tags:
 ---
 If [[People don’t intentionally review old notes]] but still want old notes to resurface, we might ask how to display that information in an ambient manner, in contrast to traditional approaches that require individuals to explicitly choose to review old notes.
 
-As described in [[C- Reviewing past notes in the process of creating new notes is a key user behavior to promote synthesis]], as you look for a spot to place a new card in a [[Zettelkasten]], you unintentionally pass other notes, sparking new ideas. [[search or create]] and [[autocomplete]] accomplish similar outcomes, leading people to [incrementally process their notes](https://roamresearch.com/#/app/write-hypertext-notebook-graph-research/page/FgDkjHlEG) as they review information they didn't intend to review.
+As described in [[C- Reviewing past notes in the process of creating new notes is a key user behavior to promote synthesis]], as you look for a spot to place a new card in a [[Zettelkasten]], you unintentionally pass other notes, sparking new ideas. [[search or create]] and [[autocomplete]] accomplish similar outcomes, leading people to [[C- Incrementally processing notes is a key user behavior to promote synthesis|incrementally process their notes]] as they review information they didn't intend to review.
 
 Many apps will augment search with additional suggestions from previously saved data. For example, [[Evernote]] has a web browser extension that displays possibly relevant notes whenever you search Google. [[WorldBrain Memex]] maintains a full text index of all of the web pages you have saved or annotated and does the same.
 
