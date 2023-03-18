@@ -2,13 +2,11 @@ name: Rob Haisfield, Joel Chan, Brendan Langen
 enableToc: true
 openToc: false
 enableLinkPreview: true
-enableLatex: true
+enableLatex: false
 enableSPA: false
 enableContextualBacklinks: true
-description:
-  A networked notebook on knowledge synthesis in academic research and software development of thought processors and HCI tools. 
-page_title:
-  "🪴 Scaling Synthesis"
+description: A networked notebook on knowledge synthesis in academic research and software development of thought processors and HCI tools.
+page_title: "🪴 Scaling Synthesis"
 links:
   - link_name: Twitter
     link: https://twitter.com/RobertHaisfield
