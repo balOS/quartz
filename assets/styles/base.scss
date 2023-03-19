@@ -726,3 +726,7 @@ a.root-title {
 [data-title^="@"] {
   color: var(--resource);
 }
+
+[data-title^="P-"] {
+  color: var(--person);
+}
