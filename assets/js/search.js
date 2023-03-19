@@ -141,9 +141,12 @@ const highlight = (content, term) => {
   const resultToHTML = ({ url, title, content, term }) => {
     const text = removeMarkdown(content)
     const resultTitle = highlight(title, term)
+    const resultTitleTrimmed = resultTitle.match(/^(?:[A-Z]- |@)/)
+      ? resultTitle.replace(/^(?:[A-Z]- |@)/, "")
+      : resultTitle
     const resultText = highlight(text, term)
     return `<button class="result-card" id="${url}">
-        <h3>${resultTitle}</h3>
+        <h3 data-src=${url}>${resultTitleTrimmed}</h3>
         <p>${resultText}</p>
     </button>`
   }
