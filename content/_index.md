@@ -28,11 +28,7 @@ Some suggested starting points:
 
 Some specific how-tos:
 
-- Pages have prefixes in their page titles that indicate what type of node it is:
-  - "C- " Claim
-  - "Q- " Question
-  - "R- " Resource
-  - "I- " Idea
+- Pages have tags to indicate what type of node it is, which is also color coded. Hover preview or navigate to the page to learn its type.
 - Builders: View this as a framework for navigating the [idea maze](https://cdixon.org/2013/08/04/the-idea-maze), and form your own conclusions about the claims, questions, and trails between them.
 - Hover your mouse over a link to see a preview of its content
 - If a page is empty, look through its backlinks! If a page isn't empty... you can still look through its backlinks! Those are all of the times where the ideas presented in the page were used in context.

@@ -18,6 +18,10 @@
       {{$l = cond (eq $l "//") "/" $l}}
       {{with (index $contentTable $lnk)}}
       {{$untrimmedTitle := index . "title"}}
+      {{$isQuestion := hasPrefix $untrimmedTitle "Q-"}}
+      {{if $isQuestion}}
+        {{$untrimmedTitle = printf "%s?" $untrimmedTitle}}
+      {{end}}
       {{$trimmedTitle := replaceRE "^[A-Z]- " "" $untrimmedTitle}}
       {{$tag := index . "tags"}}
       {{$tag := index $tag 0}}

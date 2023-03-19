@@ -1,6 +1,10 @@
 {{ $linkTitleTrimmed := .Title }}
 {{ with .Title }}
+  {{ $isQuestion := hasPrefix . "Q-" }}
   {{ $linkTitleTrimmed = . | replaceRE "^(?:[A-Z]- |@)" "" }}
+  {{ if $isQuestion }}
+    {{ $linkTitleTrimmed = printf "%s?" $linkTitleTrimmed }}
+  {{ end }}
 {{ end }}
 
 

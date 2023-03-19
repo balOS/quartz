@@ -24,7 +24,7 @@ From our exploration, we have a few starting points.
 	- It is often the case that people will go through multiple stages of braindumping in succession. [[C- People will iterate and rewrite the same ideas in order to crystallize their thoughts]].
 - Sensemaking behavior
 	- See [[C- Synthesis as a process is usefully modeled as a specialized form of sensemaking]], where we discuss how there are two primary loops: foraging (finding information) and sensemaking. For the interviews, we are primarily interested in sensemaking, as there are more pre-established design patterns for foraging.
-	- Designers [[Q- What workflows and behaviors facilitate synthesis|will often]] use [affinity diagrams](https://www.nngroup.com/articles/affinity-diagram/), and we see variations of this in other fields, where people will collect many thoughts and then attempt to chunk them together into meaningful groups.
+	- Designers will often use [affinity diagrams](https://www.nngroup.com/articles/affinity-diagram/), and we see variations of this in other fields, where people will collect many thoughts and then attempt to chunk them together into meaningful groups.
 	- - How and why [---] and existing implementations (sub in each of the bullet points below for the blank space between brackets, as though [---] represented a variable)
 		- people compose, compress, and expand information
 		- people reuse information / interpretations

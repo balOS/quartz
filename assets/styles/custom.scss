@@ -17,13 +17,13 @@
   --idea: #d33682 !important;
   --resource: #dc322f !important;
   --person: #cb4b16 !important;
-  --root-title: #2aa198 !important;
+  --root-title: var(--gray) !important;
   --external: #6c71c4 !important;
 }
 
 [saved-theme="dark"] {
   --light: #22212c !important;
-  --dark: #80ffea !important;
+  --dark: #f8f8f2 !important;
   --secondary: #ff80bf !important;
   --visited: #4a575e !important;
   --tertiary: #ff80bf !important;
@@ -31,13 +31,12 @@
   --gray: #f8f8f2 !important;
   --lightgray: #292633 !important;
   --outlinegray: #343434 !important;
-  --external: #80ffea !important;
   --highlighted: #574010;
   --claim: #8aff80 !important;
   --question: #80ffea !important;
   --idea: #ffca80 !important;
   --resource: #ff9580 !important;
   --person: #ff9580 !important;
-  --root-title: #8aff80 !important;
+  --root-title: var(--gray) !important;
   --external: #9580ff !important;
 }

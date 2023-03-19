@@ -631,7 +631,7 @@ header {
 }
 
 #page-title a {
-  color: var(--gray);
+  color: var(--root-title);
 }
 
 mark {
@@ -661,10 +661,6 @@ mark {
 
 [data-src^="/P-"] {
   color: var(--person);
-}
-
-a.root-title {
-  color: var(--root-title);
 }
 
 [data-tag="#idea"] {

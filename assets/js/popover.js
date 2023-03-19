@@ -135,9 +135,12 @@ function initPopover(baseURL, useContextualBacklinks, renderLatex) {
           // Rewrite the above as a ternary that doesn't replace characters if those starting characters aren't present
 
           if (linkDest) {
-            const linkTitleTrimmed = linkDest.title.match(/^(?:[A-Z]- |@)/)
+            var linkTitleTrimmed = linkDest.title.match(/^(?:[A-Z]- |@)/)
               ? linkDest.title.replace(/^(?:[A-Z]- |@)/, "")
               : linkDest.title
+            if (linkDest.title.startsWith("Q- ")) {
+              linkTitleTrimmed += "?";
+            }
             const tagWithHashtags = (linkDest.tags ?? []).map((tag) => `#${tag}`).join(" ")
             const popoverElement = `<div class="popover">
             <h3 class="popoverTitle" data-title=${linkDest.title}>${linkTitleTrimmed}</h3>
