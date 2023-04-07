@@ -1,13 +1,19 @@
 ---
 title: "Interfaces for adjusting a query"
 enableToc: false # do not show a table of contents on this page
+aliases:
+- /Interfaces-for-adjusting-a-query/
+tags:
+- question
 ---
 
 Authored By:: [[P- Rob Haisfield]]
 
-Not all edits to the query have to be within the query editor. In [[I- Provide Push and Pull as inline syntax to affect the related items section for a page]], we outlined how `push` and `pull` work as an inline DSL to add to a related items query's `any` clause. 
+Not all edits to the query have to be within the query editor. In [[I- Provide Push and Pull as inline syntax to affect the related items section for a page]], we outlined how `push` and `pull` work as an inline DSL to add to a related items query's `any` clause.
 
-[[C- User behavior within a well-designed choice architecture can be a signal of preferences]]. We can see how this happens with [[C- Newsfeed management can enable users to express their preferences through a combination of revealed preferences and declared preferences|newsfeed management mechanisms]]. As people are looking through the results of a query, they might right click then select the option: "remove from query." The menu path might look like the following, where each of the topics could be toggled:
+Generative AI can provide natural language as an interface. Simply describe what you'd like to query, and the large language model will write the query.
+
+[[C- User behavior within a well-designed choice architecture can be a signal of preferences]]. We can see how this happens with [[C- Newsfeed management can enable users to express their preferences through a combination of revealed preferences and declared preferences|newsfeed management mechanisms]]. As people are looking through the results of a query, they might right click then select the option: "remove from query." The menu path might look like the following, giving the option to remove the specific item, nodes from that author, or nodes discussing shared topics.
 
 ```clojure
 {:remove {:itemID sladfkji4af4sdkf

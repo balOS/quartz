@@ -1,5 +1,5 @@
 ---
-title: 🪴 Start Here
+title: 🪴 Read Me
 enableToc: false
 ---
 
@@ -11,7 +11,9 @@ Welcome to our living hypertext notebook. This notebook will continue to evolve 
 
 **All you need to do is click on what is interesting.** This is a special trait of this website - hypertext notebooks are designed for exploratory browsing. In a linear piece of writing, all ideas would be sequenced into one narrative. In hypertext writing, the narrative is emergent and the ideas are associative. It is like a book where the pages rearrange themselves for you based on your current curiosity each time you revisit. _For more on what this is, see [[Q- What is a hypertext notebook]]?_
 
-The goal of this research project is to find data structures and interfaces that support synthesis and innovation in a decentralized discourse graph.
+The goal of this research project is to find data structures and interfaces that support synthesis and innovation in a decentralized discourse graph. If you prefer videos over hypertext, see this video here (5:40):
+
+{{< youtube enRYIUDRwWg>}}
 
 Some suggested starting points:
 
@@ -24,6 +26,7 @@ Some suggested starting points:
   - [[Q- What is a decentralized discourse graph]]
   - [[C- Discourse graphs could significantly accelerate human synthesis work]]
   - [[C- Synthesis is hard to do with people who don’t share context with you]]
+  - [[Q- What are powerful interfaces for entering information into a discourse graph]]
   - [[Research Grant Application]]
 
 Some specific how-tos:
