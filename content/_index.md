@@ -5,7 +5,7 @@ enableToc: false
 
 Authored By:: [[P- Rob Haisfield]], [[P- Joel Chan]], and [[P- Brendan Langen]]
 
-Published - May 2022
+Initially published - May 2022
 
 Welcome to our living hypertext notebook. This notebook will continue to evolve going into the future and is by no means a finished product- as such, pages exist at varying stages of completion. Please leave comments to further the discussion and help direct its evolution.
 
