@@ -135,7 +135,6 @@ const highlight = (content, term) => {
       id: key,
       title: value.title,
       content: removeMarkdown(value.content),
-      tags: value.tags,
     })
   }
 
@@ -148,7 +147,6 @@ const highlight = (content, term) => {
     const resultText = highlight(text, term)
     return `<button class="result-card" id="${url}">
         <h3 data-src=${url}>${resultTitleTrimmed}</h3>
-        <p>${tags}</p>
         <p>${resultText}</p>
 
     </button>`
@@ -168,7 +166,7 @@ const highlight = (content, term) => {
     url: id,
     title: content[id].title,
     content: content[id].content,
-    tags: content[id].tags
+    taggy: content[id].tags
   })
 
   const source = document.getElementById("search-bar")
@@ -191,10 +189,6 @@ const highlight = (content, term) => {
         field: "title",
         limit: 5,
       },
-      {
-        field: "tags",
-        limit: 10,
-      },
     ])
     const getByField = (field) => {
       const results = searchResults.filter((x) => x.field === field)
@@ -204,7 +198,7 @@ const highlight = (content, term) => {
         return [...results[0].result]
       }
     }
-    const allIds = new Set([...getByField("title"), ...getByField("content"), ...getByField("tags")])
+    const allIds = new Set([...getByField("title"), ...getByField("content")])
     const finalResults = [...allIds].map(formatForDisplay)
 
     // display
