@@ -2,7 +2,7 @@ name: Deploy PR preview
 
 on:
   pull_request:
-    branches: [ main ]
+    branches: [ hugo ]
 
 jobs:
   deploy:
@@ -16,7 +16,7 @@ jobs:
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Build Link Index
-        uses: jackyzha0/hugo-obsidian@v2.19
+        uses: jackyzha0/hugo-obsidian@v2.20
         with:
           index: true
           input: content
@@ -26,7 +26,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.110.0'
+          hugo-version: '0.96.0'
           extended: true
 
       - name: Build
@@ -40,23 +40,9 @@ jobs:
         env:
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-      - name: Comment PR
-        uses: thollander/actions-comment-pull-request@v2
-        with:
-          message: |
-            [Netlify draft deploy](${{steps.netlify-deploy.outputs.NETLIFY_URL}})
-          comment_tag: netlify-url
-
       - name: Link checker
         uses: JustinBeckwith/linkinator-action@v1
         with:
           paths: ${{steps.netlify-deploy.outputs.NETLIFY_URL}}
           recurse: true
           verbosity: "INFO"
-
-      - name: Audit URLs using Lighthouse
-        uses: treosh/lighthouse-ci-action@v9
-        with:
-          urls: ${{steps.netlify-deploy.outputs.NETLIFY_URL}}
-          uploadArtifacts: true # save results as an action artifacts
-          temporaryPublicStorage: true # upload lighthouse report to the temporary storage
