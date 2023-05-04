@@ -1,17 +1,19 @@
-name: Deploy to Netlify
+name: Deploy PR preview
 
 on:
-  push:
-    branches:
-      - main
+  pull_request:
+    branches: [ main ]
 
 jobs:
   deploy:
     runs-on: ubuntu-22.04
+    env:
+      NETLIFY_SITENAME: scalingsynthesis.netlify.app
+      NETLIFY_ALIAS: pr-${{github.event.pull_request.number}}-${{github.sha}}
     steps:
       - uses: actions/checkout@v3
         with:
-          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Build Link Index
         uses: jackyzha0/hugo-obsidian@latest
@@ -24,20 +26,26 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "0.110.0"
+          hugo-version: '0.104.3'
           extended: true
 
       - name: Build
-        run: hugo --minify
+        run: hugo --minify --baseURL="https://${{env.NETLIFY_ALIAS}}--${{env.NETLIFY_SITENAME}}/"
 
       - name: Netlify deploy
         uses: netlify/actions/cli@master
         id: netlify-deploy
         with:
-          args: deploy --dir=public --prod
+          args: deploy --dir=public --alias=${{env.NETLIFY_ALIAS}}
         env:
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+      - name: Comment PR
+        uses: thollander/actions-comment-pull-request@v2
+        with:
+          message: |
+            [Netlify draft deploy](${{steps.netlify-deploy.outputs.NETLIFY_URL}})
+          comment_tag: netlify-url
 
       - name: Link checker
         uses: JustinBeckwith/linkinator-action@v1
