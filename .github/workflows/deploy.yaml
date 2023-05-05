@@ -1,4 +1,4 @@
-name: Deploy to Netlify
+name: Deploy to GitHub Pages
 
 on:
   push:
@@ -7,9 +7,9 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-18.04
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
         with:
           fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
 
@@ -37,12 +37,3 @@ jobs:
           publish_dir: ./public
           publish_branch: master # deploying branch
           cname: scalingsynthesis.com
-
-      - name: Netlify deploy
-        uses: netlify/actions/cli@master
-        id: netlify-deploy
-        with:
-          args: deploy --dir=public --prod
-        env:
-          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
