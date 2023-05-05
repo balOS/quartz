@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 22,
+  "agentName": "MacBook-Pro-9",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/hgkcQxJOxxM61lqTOLufJwgrLpppPoRrtgjJk8pZClf4Vw92Li",
+  "gitHubUrl": "https://github.com/classicrob/quartz",
+  "workFolder": "_work"
+}

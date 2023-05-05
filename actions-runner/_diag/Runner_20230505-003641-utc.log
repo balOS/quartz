@@ -1,0 +1,117 @@
+[2023-05-05 00:36:41Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-05-05 00:36:41Z INFO HostContext] Well known directory 'Bin': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/bin'
+[2023-05-05 00:36:41Z INFO HostContext] Well known directory 'Root': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner'
+[2023-05-05 00:36:41Z INFO HostContext] Well known config file 'Credentials': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/.credentials'
+[2023-05-05 00:36:41Z INFO HostContext] Well known directory 'Bin': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/bin'
+[2023-05-05 00:36:41Z INFO HostContext] Well known directory 'Root': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner'
+[2023-05-05 00:36:41Z INFO HostContext] Well known config file 'Runner': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/.runner'
+[2023-05-05 00:36:41Z INFO Listener] Runner is built for OSX (Arm64) - osx-arm64.
+[2023-05-05 00:36:41Z INFO Listener] RuntimeInformation: Darwin 22.2.0 Darwin Kernel Version 22.2.0: Sun Oct 16 18:09:52 PDT 2022; root:xnu-8792.60.32.0.1~11/RELEASE_ARM64_T6000.
+[2023-05-05 00:36:41Z INFO Listener] Version: 2.304.0
+[2023-05-05 00:36:41Z INFO Listener] Commit: 9ef4121b5b31ee5c03b7770288213d741081f747
+[2023-05-05 00:36:41Z INFO Listener] Culture: en-US
+[2023-05-05 00:36:41Z INFO Listener] UI Culture: en-US
+[2023-05-05 00:36:41Z INFO HostContext] Well known directory 'Bin': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/bin'
+[2023-05-05 00:36:41Z INFO HostContext] Well known directory 'Root': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner'
+[2023-05-05 00:36:41Z INFO Listener] Validating directory permissions for: '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner'
+[2023-05-05 00:36:41Z INFO CommandLineParser] Parse
+[2023-05-05 00:36:41Z INFO CommandLineParser] Parsing 1 args
+[2023-05-05 00:36:41Z INFO CommandLineParser] parsing argument
+[2023-05-05 00:36:41Z INFO CommandLineParser] HasArgs: False
+[2023-05-05 00:36:41Z INFO CommandLineParser] Adding Command: run
+[2023-05-05 00:36:41Z INFO Listener] Arguments parsed
+[2023-05-05 00:36:41Z INFO Runner] ExecuteCommand
+[2023-05-05 00:36:41Z INFO ConfigurationStore] currentAssemblyLocation: /Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/bin/Runner.Listener.dll
+[2023-05-05 00:36:41Z INFO HostContext] Well known directory 'Bin': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/bin'
+[2023-05-05 00:36:41Z INFO ConfigurationStore] binPath: /Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/bin
+[2023-05-05 00:36:41Z INFO HostContext] Well known directory 'Bin': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/bin'
+[2023-05-05 00:36:41Z INFO HostContext] Well known directory 'Root': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner'
+[2023-05-05 00:36:41Z INFO ConfigurationStore] RootFolder: /Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner
+[2023-05-05 00:36:41Z INFO HostContext] Well known directory 'Bin': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/bin'
+[2023-05-05 00:36:41Z INFO HostContext] Well known directory 'Root': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner'
+[2023-05-05 00:36:41Z INFO HostContext] Well known config file 'Runner': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/.runner'
+[2023-05-05 00:36:41Z INFO ConfigurationStore] ConfigFilePath: /Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/.runner
+[2023-05-05 00:36:41Z INFO HostContext] Well known directory 'Bin': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/bin'
+[2023-05-05 00:36:41Z INFO HostContext] Well known directory 'Root': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner'
+[2023-05-05 00:36:41Z INFO HostContext] Well known config file 'Credentials': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/.credentials'
+[2023-05-05 00:36:41Z INFO ConfigurationStore] CredFilePath: /Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/.credentials
+[2023-05-05 00:36:41Z INFO HostContext] Well known directory 'Bin': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/bin'
+[2023-05-05 00:36:41Z INFO HostContext] Well known directory 'Root': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner'
+[2023-05-05 00:36:41Z INFO HostContext] Well known config file 'MigratedCredentials': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/.credentials_migrated'
+[2023-05-05 00:36:41Z INFO ConfigurationStore] MigratedCredFilePath: /Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/.credentials_migrated
+[2023-05-05 00:36:41Z INFO HostContext] Well known directory 'Bin': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/bin'
+[2023-05-05 00:36:41Z INFO HostContext] Well known directory 'Root': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner'
+[2023-05-05 00:36:41Z INFO HostContext] Well known config file 'Service': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/.service'
+[2023-05-05 00:36:41Z INFO ConfigurationStore] ServiceConfigFilePath: /Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/.service
+[2023-05-05 00:36:41Z INFO CommandSettings] Flag 'help': 'False'
+[2023-05-05 00:36:41Z INFO CommandSettings] Flag 'version': 'False'
+[2023-05-05 00:36:41Z INFO CommandSettings] Flag 'commit': 'False'
+[2023-05-05 00:36:41Z INFO CommandSettings] Flag 'check': 'False'
+[2023-05-05 00:36:41Z INFO CommandSettings] Command 'configure': 'False'
+[2023-05-05 00:36:41Z INFO CommandSettings] Command 'remove': 'False'
+[2023-05-05 00:36:41Z INFO CommandSettings] Command 'warmup': 'False'
+[2023-05-05 00:36:41Z INFO ConfigurationManager] LoadSettings
+[2023-05-05 00:36:41Z INFO ConfigurationStore] IsConfigured()
+[2023-05-05 00:36:41Z INFO ConfigurationStore] IsConfigured: True
+[2023-05-05 00:36:41Z INFO ConfigurationManager] Is configured: True
+[2023-05-05 00:36:41Z INFO ConfigurationStore] Read setting file: 288 chars
+[2023-05-05 00:36:41Z INFO ConfigurationManager] Settings Loaded
+[2023-05-05 00:36:41Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-05-05 00:36:41Z INFO ConfigurationStore] IsServiceConfigured: False
+[2023-05-05 00:36:41Z INFO CommandSettings] Command 'run': 'True'
+[2023-05-05 00:36:41Z INFO ConfigurationStore] IsConfigured()
+[2023-05-05 00:36:41Z INFO ConfigurationStore] IsConfigured: True
+[2023-05-05 00:36:41Z INFO ConfigurationManager] Is configured: True
+[2023-05-05 00:36:41Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2023-05-05 00:36:41Z INFO Runner] Set runner startup type - Manual
+[2023-05-05 00:36:41Z INFO CommandSettings] Flag 'once': 'False'
+[2023-05-05 00:36:41Z INFO CommandSettings] Flag 'once': 'False'
+[2023-05-05 00:36:41Z INFO Runner] RunAsync
+[2023-05-05 00:36:41Z INFO ConfigurationManager] LoadSettings
+[2023-05-05 00:36:41Z INFO ConfigurationStore] IsConfigured()
+[2023-05-05 00:36:41Z INFO ConfigurationStore] IsConfigured: True
+[2023-05-05 00:36:41Z INFO ConfigurationManager] Is configured: True
+[2023-05-05 00:36:41Z INFO ConfigurationManager] Settings Loaded
+[2023-05-05 00:36:41Z INFO MessageListener] {
+  "AgentId": 22,
+  "AgentName": "MacBook-Pro-9",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelines.actions.githubusercontent.com/hgkcQxJOxxM61lqTOLufJwgrLpppPoRrtgjJk8pZClf4Vw92Li",
+  "GitHubUrl": "https://github.com/classicrob/quartz",
+  "WorkFolder": "_work"
+}
+[2023-05-05 00:36:41Z INFO MessageListener] Loading Credentials
+[2023-05-05 00:36:41Z INFO ConfigurationStore] HasCredentials()
+[2023-05-05 00:36:41Z INFO ConfigurationStore] stored True
+[2023-05-05 00:36:41Z INFO CredentialManager] GetCredentialProvider
+[2023-05-05 00:36:41Z INFO CredentialManager] Creating type OAuth
+[2023-05-05 00:36:41Z INFO CredentialManager] Creating credential type: OAuth
+[2023-05-05 00:36:41Z INFO HostContext] Well known directory 'Bin': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/bin'
+[2023-05-05 00:36:41Z INFO HostContext] Well known directory 'Root': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner'
+[2023-05-05 00:36:41Z INFO HostContext] Well known config file 'RSACredentials': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/.credentials_rsaparams'
+[2023-05-05 00:36:41Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/.credentials_rsaparams
+[2023-05-05 00:36:41Z INFO MessageListener] Attempt to create session.
+[2023-05-05 00:36:41Z INFO MessageListener] Connecting to the Runner Server...
+[2023-05-05 00:36:41Z INFO RunnerServer] EstablishVssConnection
+[2023-05-05 00:36:41Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-05-05 00:36:41Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-05-05 00:36:41Z INFO RunnerServer] EstablishVssConnection
+[2023-05-05 00:36:41Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-05-05 00:36:41Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-05-05 00:36:41Z INFO RunnerServer] EstablishVssConnection
+[2023-05-05 00:36:41Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-05-05 00:36:41Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-05-05 00:36:41Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-05-05 00:36:41Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-05-05 00:36:41Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-05-05 00:36:41Z INFO MessageListener] VssConnection created
+[2023-05-05 00:36:41Z INFO Terminal] WRITE LINE: 
+[2023-05-05 00:36:41Z INFO Terminal] WRITE LINE: 
+[2023-05-05 00:36:42Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/.credentials_rsaparams
+[2023-05-05 00:36:42Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/.credentials_rsaparams
+[2023-05-05 00:36:42Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-05-05 00:36:42Z INFO MessageListener] Session created.
+[2023-05-05 00:36:42Z INFO Terminal] WRITE LINE: Current runner version: '2.304.0'
+[2023-05-05 00:36:42Z INFO Terminal] WRITE LINE: 2023-05-05 00:36:42Z: Listening for Jobs
+[2023-05-05 00:36:42Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
