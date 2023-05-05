@@ -8,4 +8,5 @@ TypeScript/node_modules
 TypeScript/*.js
 assets/indices/linkIndex.json
 assets/indices/contentIndex.json
+linkmap
 /.hugo_build.lock
