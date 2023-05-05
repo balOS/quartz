@@ -6,5 +6,6 @@ content/.obsidian
 content/private
 TypeScript/node_modules
 TypeScript/*.js
-linkmap
+assets/indices/linkIndex.json
+assets/indices/contentIndex.json
 /.hugo_build.lock
