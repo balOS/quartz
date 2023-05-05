@@ -39,5 +39,3 @@ From our exploration, we have a few starting points.
 Any work that we hook into for them to author a discourse graph should line up with workflows that help them. People like putting ideas into clusters. We want to hook into in progress work. People take courses, download exercise apps, etc. because they want to change but are struggling to do it on their own. 
 
 [[P- Ryan Singer]] instantiates his brainstorming and planning workflow in the video here.
-
-{{< tweet user="rjs" id="1434934749731098630" >}}
