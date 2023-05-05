@@ -1,4 +1,4 @@
-baseURL = "https://scalingsynthesis.com/"
+baseURL = "scalingsynthesis.com/"
 languageCode = "en-us"
 googleAnalytics = "G-5P7KT5C8ET"
 pygmentsUseClasses = true
