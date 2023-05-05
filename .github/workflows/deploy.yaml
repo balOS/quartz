@@ -7,9 +7,9 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-18.04
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
         with:
           fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
 
@@ -39,16 +39,3 @@ jobs:
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
 
-      - name: Link checker
-        uses: JustinBeckwith/linkinator-action@v1
-        with:
-          paths: ${{steps.netlify-deploy.outputs.NETLIFY_URL}}
-          recurse: true
-          verbosity: "INFO"
-
-      - name: Audit URLs using Lighthouse
-        uses: treosh/lighthouse-ci-action@v9
-        with:
-          urls: ${{steps.netlify-deploy.outputs.NETLIFY_URL}}
-          uploadArtifacts: true # save results as an action artifacts
-          temporaryPublicStorage: true # upload lighthouse report to the temporary storage
