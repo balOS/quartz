@@ -115,3 +115,110 @@
 [2023-05-05 00:36:42Z INFO Terminal] WRITE LINE: Current runner version: '2.304.0'
 [2023-05-05 00:36:42Z INFO Terminal] WRITE LINE: 2023-05-05 00:36:42Z: Listening for Jobs
 [2023-05-05 00:36:42Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2023-05-05 00:41:39Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/.credentials_rsaparams
+[2023-05-05 00:41:39Z INFO MessageListener] Message '1' received from session '733e7216-9584-42f6-bd76-1b71bf882e43'.
+[2023-05-05 00:41:39Z INFO Runner] Received job message of length 24571 from service, with hash 'd364982cc97dcbe5f41b3a9e9529aa3d13f301e9e5a70d69f35bf88765639dd1'
+[2023-05-05 00:41:40Z INFO JobDispatcher] Job request 1075 for plan 0fa6e229-1cce-439e-b492-43bf201a13aa job e07742bd-189a-5079-918b-43f8b2f94b89 received.
+[2023-05-05 00:41:40Z INFO JobDispatcher] Pull OrchestrationId 0fa6e229-1cce-439e-b492-43bf201a13aa.deploy.__default from JWT claims
+[2023-05-05 00:41:40Z INFO Terminal] WRITE LINE: 2023-05-05 00:41:40Z: Running job: deploy
+[2023-05-05 00:41:40Z INFO JobDispatcher] Start renew job request 1075 for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2023-05-05 00:41:40Z INFO JobDispatcher] Successfully renew job request 1075, job is valid till 5/5/2023 12:51:40 AM
+[2023-05-05 00:41:40Z INFO HostContext] Well known directory 'Bin': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/bin'
+[2023-05-05 00:41:40Z INFO ProcessInvokerWrapper] Starting process:
+[2023-05-05 00:41:40Z INFO ProcessInvokerWrapper]   File name: '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/bin/Runner.Worker'
+[2023-05-05 00:41:40Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 109 112'
+[2023-05-05 00:41:40Z INFO ProcessInvokerWrapper]   Working directory: '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/bin'
+[2023-05-05 00:41:40Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-05-05 00:41:40Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-05-05 00:41:40Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-05-05 00:41:40Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-05-05 00:41:40Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-05-05 00:41:40Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-05-05 00:41:40Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-05-05 00:41:40Z INFO ProcessInvokerWrapper] Process started with process id 25887, waiting for process exit.
+[2023-05-05 00:41:40Z INFO JobDispatcher] Send job request message to worker for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2023-05-05 00:41:40Z INFO ProcessChannel] Sending message of length 24571, with hash 'd364982cc97dcbe5f41b3a9e9529aa3d13f301e9e5a70d69f35bf88765639dd1'
+[2023-05-05 00:41:40Z INFO JobNotification] Entering JobStarted Notification
+[2023-05-05 00:41:40Z INFO JobNotification] Entering StartMonitor
+[2023-05-05 00:42:12Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-05-05 00:42:12Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-05-05 00:42:12Z INFO ProcessInvokerWrapper] Finished process 25887 with exit code 102, and elapsed time 00:00:31.8315356.
+[2023-05-05 00:42:12Z INFO JobDispatcher] Worker finished for job e07742bd-189a-5079-918b-43f8b2f94b89. Code: 102
+[2023-05-05 00:42:12Z INFO JobDispatcher] finish job request for job e07742bd-189a-5079-918b-43f8b2f94b89 with result: Failed
+[2023-05-05 00:42:12Z INFO Terminal] WRITE LINE: 2023-05-05 00:42:12Z: Job deploy completed with result: Failed
+[2023-05-05 00:42:12Z INFO JobDispatcher] Stop renew job request for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2023-05-05 00:42:12Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 1075.
+[2023-05-05 00:42:12Z INFO JobNotification] Entering JobCompleted Notification
+[2023-05-05 00:42:12Z INFO JobNotification] Entering EndMonitor
+[2023-05-05 00:48:54Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/.credentials_rsaparams
+[2023-05-05 00:48:54Z INFO MessageListener] Message '2' received from session '733e7216-9584-42f6-bd76-1b71bf882e43'.
+[2023-05-05 00:48:54Z INFO Runner] Received job message of length 24570 from service, with hash '9a1bf3ace39416026ae83aef7d19d6e871a3bbe7ae2b2be5c48172a9f4752c81'
+[2023-05-05 00:48:54Z INFO JobDispatcher] Job request 1076 for plan c5bdc4b9-7756-4de3-a0f8-ee9a96bf1a65 job e07742bd-189a-5079-918b-43f8b2f94b89 received.
+[2023-05-05 00:48:54Z INFO JobDispatcher] Pull OrchestrationId c5bdc4b9-7756-4de3-a0f8-ee9a96bf1a65.deploy.__default from JWT claims
+[2023-05-05 00:48:54Z INFO JobDispatcher] Job request e07742bd-189a-5079-918b-43f8b2f94b89 processed succeed.
+[2023-05-05 00:48:54Z INFO Terminal] WRITE LINE: 2023-05-05 00:48:54Z: Running job: deploy
+[2023-05-05 00:48:54Z INFO JobDispatcher] Start renew job request 1076 for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2023-05-05 00:48:55Z INFO JobDispatcher] Successfully renew job request 1076, job is valid till 5/5/2023 12:58:55 AM
+[2023-05-05 00:48:55Z INFO HostContext] Well known directory 'Bin': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/bin'
+[2023-05-05 00:48:55Z INFO ProcessInvokerWrapper] Starting process:
+[2023-05-05 00:48:55Z INFO ProcessInvokerWrapper]   File name: '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/bin/Runner.Worker'
+[2023-05-05 00:48:55Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 109 112'
+[2023-05-05 00:48:55Z INFO ProcessInvokerWrapper]   Working directory: '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/bin'
+[2023-05-05 00:48:55Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-05-05 00:48:55Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-05-05 00:48:55Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-05-05 00:48:55Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-05-05 00:48:55Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-05-05 00:48:55Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-05-05 00:48:55Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-05-05 00:48:55Z INFO ProcessInvokerWrapper] Process started with process id 26797, waiting for process exit.
+[2023-05-05 00:48:55Z INFO JobDispatcher] Send job request message to worker for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2023-05-05 00:48:55Z INFO ProcessChannel] Sending message of length 24570, with hash '9a1bf3ace39416026ae83aef7d19d6e871a3bbe7ae2b2be5c48172a9f4752c81'
+[2023-05-05 00:48:55Z INFO JobNotification] Entering JobStarted Notification
+[2023-05-05 00:48:55Z INFO JobNotification] Entering StartMonitor
+[2023-05-05 00:49:09Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-05-05 00:49:09Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-05-05 00:49:09Z INFO ProcessInvokerWrapper] Finished process 26797 with exit code 102, and elapsed time 00:00:14.0436392.
+[2023-05-05 00:49:09Z INFO JobDispatcher] Worker finished for job e07742bd-189a-5079-918b-43f8b2f94b89. Code: 102
+[2023-05-05 00:49:09Z INFO JobDispatcher] finish job request for job e07742bd-189a-5079-918b-43f8b2f94b89 with result: Failed
+[2023-05-05 00:49:09Z INFO Terminal] WRITE LINE: 2023-05-05 00:49:09Z: Job deploy completed with result: Failed
+[2023-05-05 00:49:09Z INFO JobDispatcher] Stop renew job request for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2023-05-05 00:49:09Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 1076.
+[2023-05-05 00:49:09Z INFO JobNotification] Entering JobCompleted Notification
+[2023-05-05 00:49:09Z INFO JobNotification] Entering EndMonitor
+[2023-05-05 00:52:21Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/.credentials_rsaparams
+[2023-05-05 00:52:22Z INFO MessageListener] Message '3' received from session '733e7216-9584-42f6-bd76-1b71bf882e43'.
+[2023-05-05 00:52:22Z INFO Runner] Received job message of length 24681 from service, with hash '8a490d745ab1451ff95bdc72ebb397a9addcc1e09fca9e8446115bdee9c6d482'
+[2023-05-05 00:52:22Z INFO JobDispatcher] Job request 1077 for plan 31319432-ec7a-4b3f-8f18-3edb6d3d4bb8 job e07742bd-189a-5079-918b-43f8b2f94b89 received.
+[2023-05-05 00:52:22Z INFO JobDispatcher] Pull OrchestrationId 31319432-ec7a-4b3f-8f18-3edb6d3d4bb8.deploy.__default from JWT claims
+[2023-05-05 00:52:22Z INFO JobDispatcher] Job request e07742bd-189a-5079-918b-43f8b2f94b89 processed succeed.
+[2023-05-05 00:52:22Z INFO Terminal] WRITE LINE: 2023-05-05 00:52:22Z: Running job: deploy
+[2023-05-05 00:52:22Z INFO JobDispatcher] Start renew job request 1077 for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2023-05-05 00:52:22Z INFO JobDispatcher] Successfully renew job request 1077, job is valid till 5/5/2023 1:02:22 AM
+[2023-05-05 00:52:22Z INFO HostContext] Well known directory 'Bin': '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/bin'
+[2023-05-05 00:52:22Z INFO ProcessInvokerWrapper] Starting process:
+[2023-05-05 00:52:22Z INFO ProcessInvokerWrapper]   File name: '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/bin/Runner.Worker'
+[2023-05-05 00:52:22Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 109 112'
+[2023-05-05 00:52:22Z INFO ProcessInvokerWrapper]   Working directory: '/Users/roberthaisfield/Dropbox/LogSeq Quartz Overlayer/quartz/actions-runner/bin'
+[2023-05-05 00:52:22Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-05-05 00:52:22Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-05-05 00:52:22Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-05-05 00:52:22Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-05-05 00:52:22Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-05-05 00:52:22Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-05-05 00:52:22Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-05-05 00:52:22Z INFO ProcessInvokerWrapper] Process started with process id 27241, waiting for process exit.
+[2023-05-05 00:52:22Z INFO JobDispatcher] Send job request message to worker for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2023-05-05 00:52:22Z INFO ProcessChannel] Sending message of length 24681, with hash '8a490d745ab1451ff95bdc72ebb397a9addcc1e09fca9e8446115bdee9c6d482'
+[2023-05-05 00:52:22Z INFO JobNotification] Entering JobStarted Notification
+[2023-05-05 00:52:22Z INFO JobNotification] Entering StartMonitor
+[2023-05-05 00:52:35Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-05-05 00:52:35Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-05-05 00:52:35Z INFO ProcessInvokerWrapper] Finished process 27241 with exit code 102, and elapsed time 00:00:13.1158865.
+[2023-05-05 00:52:35Z INFO JobDispatcher] Worker finished for job e07742bd-189a-5079-918b-43f8b2f94b89. Code: 102
+[2023-05-05 00:52:35Z INFO JobDispatcher] finish job request for job e07742bd-189a-5079-918b-43f8b2f94b89 with result: Failed
+[2023-05-05 00:52:35Z INFO Terminal] WRITE LINE: 2023-05-05 00:52:35Z: Job deploy completed with result: Failed
+[2023-05-05 00:52:35Z INFO JobDispatcher] Stop renew job request for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2023-05-05 00:52:35Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 1077.
+[2023-05-05 00:52:35Z INFO JobNotification] Entering JobCompleted Notification
+[2023-05-05 00:52:35Z INFO JobNotification] Entering EndMonitor

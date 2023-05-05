@@ -1,0 +1,79 @@
+name: 'GitHub Pages action'
+description: 'GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.'
+author: 'peaceiris'
+runs:
+  using: 'node16'
+  main: 'lib/index.js'
+branding:
+  icon: 'upload-cloud'
+  color: 'blue'
+inputs:
+  deploy_key:
+    description: 'Set a SSH private key from repository secret value for pushing to the remote branch.'
+    required: false
+  github_token:
+    description: 'Set a generated GITHUB_TOKEN for pushing to the remote branch.'
+    required: false
+  personal_token:
+    description: 'Set a personal access token for pushing to the remote branch.'
+    required: false
+  publish_branch:
+    description: 'Set a target branch for deployment.'
+    required: false
+    default: 'gh-pages'
+  publish_dir:
+    description: 'Set an input directory for deployment.'
+    required: false
+    default: 'public'
+  destination_dir:
+    description: 'Set an destination subdirectory for deployment.'
+    required: false
+    default: ''
+  external_repository:
+    description: 'Set an external repository (owner/repo).'
+    required: false
+  allow_empty_commit:
+    description: 'If empty commits should be made to the publication branch'
+    required: false
+    default: 'false'
+  keep_files:
+    description: 'If existing files in the publish branch should be not removed before deploying'
+    required: false
+    default: 'false'
+  force_orphan:
+    description: 'Keep only the latest commit on a GitHub Pages branch'
+    required: false
+    default: 'false'
+  user_name:
+    description: 'Set Git user.name'
+    required: false
+  user_email:
+    description: 'Set Git user.email'
+    required: false
+  commit_message:
+    description: 'Set a custom commit message with a triggered commit hash'
+    required: false
+  full_commit_message:
+    description: 'Set a custom full commit message without a triggered commit hash'
+    required: false
+  tag_name:
+    description: 'Set tag name'
+    required: false
+  tag_message:
+    description: 'Set tag message'
+    required: false
+  enable_jekyll:
+    description: 'Enable the GitHub Pages built-in Jekyll'
+    required: false
+    default: 'false'
+  disable_nojekyll:
+    description: 'An alias for enable_jekyll to disable adding .nojekyll file to a publishing branch'
+    required: false
+    default: 'false'
+  cname:
+    description: 'Set custom domain'
+    required: false
+  exclude_assets:
+    description: 'Set files or directories to exclude from a publish directory.'
+    required: false
+    default: '.github'
