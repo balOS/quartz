@@ -18,6 +18,7 @@ The goal of this research project is to find data structures and interfaces that
 Some suggested starting points:
 
 - To jump straight into the ideas:
+  - [[Q- How do you scale and distribute synthesis]]
   - [[Q- How might we navigate the structure now or later tradeoffs]]
   - [[C- Designing for ambient review is a rich opportunity space]]
   - [[I- A DSL for a discourse graph with information entry, visualization, and retrieval]]
