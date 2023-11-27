@@ -14,7 +14,7 @@ In current tools, structuring ideas in real-time is an extraneous task that __ta
 
 If people have already developed elaborate systems, then the requirement to structure as you go can feel restrictive and stressful. For example, if I'm on my phone and want to capture an idea, but I have a highly structured system, then it will simply take longer to navigate to the correct locations and link to the correct pages because I went from 10 fingers to 2 thumbs.
 
-If a tool doesn't have a great mobile version, this problem is exacerbated. We frequently heard from our interviews that quick capture of an idea on the go was vital to their process. If a tool doesn't have a great mobile version, this problem is exacerbated. We frequently heard from our interviews that quick capture of an idea on the go was vital to their process.
+If a tool doesn't have a great mobile version, this problem is exacerbated. We frequently heard from our interviews that quick capture of an idea on the go was vital to their process. If a tool doesn't have a great mobile version, this problem is exacerbated.
 
 Because [[It takes too much work to create structure|structuring notes in the moment is costly]], the design implications are that thought processors should either lower the cost of structuring or give users the ability to structure in hindsight.
 
