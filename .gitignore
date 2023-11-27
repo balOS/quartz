@@ -10,3 +10,4 @@ assets/indices/linkIndex.json
 assets/indices/contentIndex.json
 linkmap
 /.hugo_build.lock
+content/.smart-connections
